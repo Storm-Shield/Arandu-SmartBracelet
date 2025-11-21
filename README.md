@@ -100,7 +100,8 @@ se preferir, veja nosso vídeo no YouTube explicando o projeto: [YouTube - Globa
 
 ### **Acesse a aplicação**
 - Abra o navegador e acesse o endereço:
-  ```http://localhost:5173
+  ```
+  http://localhost:5173
   ```
  teste a aplicação e visualize os dados de batimentos cardíacos em tempo real.
 ---
