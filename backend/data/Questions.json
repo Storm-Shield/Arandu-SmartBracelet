@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Qual é considerado o principal fator que irá moldar o futuro do trabalho nas próximas décadas?",
+        "options": [
+            {"text": "Avanços em Inteligência Artificial e Automação", "isCorrect": true},
+            {"text": "A popularidade do home office", "isCorrect": false}
+        ]
+    },
+    {
+        "text": "De acordo com especialistas, qual será uma das habilidades humanas mais cruciais em um ambiente de trabalho cada vez mais automatizado?",
+        "options": [
+            {"text": "Pensamento Crítico e Resolução de Problemas Complexos", "isCorrect": true},
+            {"text": "Velocidade de Digitação", "isCorrect": false}
+        ]
+    },
+    {
+        "text": "O conceito de 'aprendizado ao longo da vida' (lifelong learning) no futuro do trabalho se refere principalmente a:",
+        "options": [
+            {"text": "Atualizar constantemente habilidades para se adaptar a novas demandas e tecnologias.", "isCorrect": true},
+            {"text": "Fazer uma pós-graduação logo após a faculdade.", "isCorrect": false}
+        ]
+    },
+    {
+        "text": "Qual modelo de trabalho se caracteriza por profissionais executarem tarefas específicas e temporárias, muitas vezes por projeto, em vez de terem um emprego tradicional?",
+        "options": [
+            {"text": "CLT (Consolidação das Leis do Trabalho)", "isCorrect": false},
+            {"text": "Economia Gig (ou Trabalho sob Demanda)", "isCorrect": true}
+        ]
+    },
+    {
+        "text": "Uma preocupação central sobre a Inteligência Artificial no futuro do trabalho é:",
+        "options": [
+            {"text": "O deslocamento de empregos em tarefas repetitivas e a necessidade de requalificação.", "isCorrect": true},
+            {"text": "As IAs se tornarem nossos chefes imediatos.", "isCorrect": false}
+        ]
+    },
+    {
+        "text": "O que o termo 'hibrido' comumente descreve no contexto do futuro do trabalho?",
+        "options": [
+            {"text": "Uma nova modalidade de contrato de trabalho.", "isCorrect": false},
+            {"text": "Um modelo que combina trabalho presencial e remoto.", "isCorrect": true}
+        ]
+    },
+    {
+        "text": "Para muitas empresas, qual é uma vantagem significativa de adotar modelos de trabalho remoto ou híbrido?",
+        "options": [
+            {"text": "Redução do número de reuniões.", "isCorrect": false},
+            {"text": "Acesso a um pool global de talentos e aumento da diversidade.", "isCorrect": true}
+        ]
+    },
+    {
+        "text": "Qual é um dos maiores desafios associados ao trabalho remoto?",
+        "options": [
+            {"text": "Desgaste do bem-estar mental devido ao isolamento e dificuldade de 'desligar'.", "isCorrect": true},
+            {"text": "Aumento dos custos com transporte para os funcionários.", "isCorrect": false}
+        ]
+    },
+    {
+        "text": "Além das habilidades técnicas, qual conjunto de competências está se tornando cada vez mais valorizado?",
+        "options": [
+            {"text": "Competências Socioemocionais (Soft Skills), como comunicação e colaboração.", "isCorrect": true},
+            {"text": "Habilidade para operar máquinas de escrever.", "isCorrect": false}
+        ]
+    },
+    {
+        "text": "O que a Quarta Revolução Industrial (Indústria 4.0) representa para o futuro do trabalho?",
+        "options": [
+            {"text": "A volta dos empregos manuais e artesanais.", "isCorrect": false},
+            {"text": "A fusão de tecnologias digitais, físicas e biológicas, automatizando processos e criando novas indústrias.", "isCorrect": true}
+        ]
+    }
+]

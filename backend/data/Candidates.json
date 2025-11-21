@@ -1,0 +1,2660 @@
+[
+    {
+        "id": 1,
+        "name": "David Magalhaẽs",
+        "photo": "./perfil/foto1.jpg",
+        "position": "State Deputy",
+        "summary": "Psychologist and state deputy dedicated to implementing public policies focused on mental health, education, and human rights. Combines clinical experience with legislative action to create a more just and empathetic society.",
+        "localization": "São Paulo/SP",
+        "area": "Legislative",
+        "hard_skills": ["Public Policy Analysis", "Data Interpretation", "Legislative Drafting", "Budget Management", "Project Management"],
+        "soft_skills": ["Empathy", "Public Speaking", "Negotiation", "Critical Thinking", "Leadership"],
+        "experiences": [{
+            "enterprise": "Legislative Assembly of São Paulo",
+            "position": "State Deputy",
+            "initial": "2023-01",
+            "finish": "Present",
+            "description": "Proposes and debates bills focused on social welfare. Vice-president of the Commission on Human Rights and member of the Health Commission."
+        }, {
+            "enterprise": "Magalhaẽs & Associates Psychology Clinic",
+            "position": "Founder and Clinical Psychologist",
+            "initial": "2018-05",
+            "finish": "2022-12",
+            "description": "Provided individual and group therapy, supervised new professionals, and organized community mental health workshops."
+        }],
+        "formation": [{
+            "course": "Master's in Public Policy",
+            "institution": "Fundação Getulio Vargas (FGV)",
+            "year": 2021
+        }, {
+            "course": "Bachelor of Psychology",
+            "institution": "University of São Paulo (USP)",
+            "year": 2016
+        }],
+        "projects": [{
+            "titulo": "Mental Health in Schools Program",
+            "link": "https://davimagalhaes.com/projects/school-mental-health",
+            "description": "An initiative to integrate psychological support and mental health education into the state's public school network."
+        }],
+        "certifications": ["Certified Public Manager (CGU)", "Cognitive Behavioral Therapy Specialization (CBP)"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Advanced"},
+            {"language": "Spanish", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["Mental Health Public Policy", "Education", "Human Resources", "Social Justice"]
+    },
+    {
+        "id": 2,
+        "name": "Ana Silva Santos",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Urban Planning Manager",
+        "summary": "Architect specialized in urban planning with 10 years of experience in developing sustainable and inclusive cities. Focused on integrating green areas and efficient public transportation.",
+        "localization": "Curitiba/PR",
+        "area": "Public Management",
+        "hard_skills": ["GIS Software", "Urban Modeling", "Project Management", "Environmental Legislation", "Budget Planning"],
+        "soft_skills": ["Strategic Planning", "Stakeholder Engagement", "Problem Solving", "Adaptability", "Team Leadership"],
+        "experiences": [{
+            "enterprise": "Curitiba City Hall",
+            "position": "Urban Planning Manager",
+            "initial": "2019-03",
+            "finish": "Present",
+            "description": "Leads the master plan revision team, coordinates projects for new bike lanes and parks, and manages the urban development budget."
+        }, {
+            "enterprise": "Urban Solutions Ltda",
+            "position": "Urban Planner",
+            "initial": "2014-08",
+            "finish": "2019-02",
+            "description": "Developed urban projects for private and public clients, focusing on sustainability and smart city concepts."
+        }],
+        "formation": [{
+            "course": "Master's in Urban Planning",
+            "institution": "Universidade Federal do Paraná (UFPR)",
+            "year": 2014
+        }, {
+            "course": "Bachelor of Architecture and Urbanism",
+            "institution": "Universidade Presbiteriana Mackenzie",
+            "year": 2011
+        }],
+        "projects": [{
+            "titulo": "Green Corridors Project",
+            "link": "https://anasantos.com/projects/green-corridors",
+            "description": "Planning and implementation of ecological corridors connecting city parks, promoting biodiversity and sustainable mobility."
+        }],
+        "certifications": ["LEED Green Associate", "PMI Project Management Professional"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Fluent"}
+        ],
+        "interestsArea": ["Sustainable Cities", "Urban Mobility", "Environmental Planning", "Public Space Design"]
+    },
+    {
+        "id": 3,
+        "name": "Carlos Eduardo Lima",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Public Health Coordinator",
+        "summary": "Physician with specialization in Public Health and extensive experience in managing healthcare programs and epidemiological surveillance.",
+        "localization": "Salvador/BA",
+        "area": "Health",
+        "hard_skills": ["Epidemiological Analysis", "Health Program Management", "Data Analysis", "Public Health Legislation", "Healthcare Planning"],
+        "soft_skills": ["Decision Making", "Crisis Management", "Communication", "Teamwork", "Resilience"],
+        "experiences": [{
+            "enterprise": "Bahia State Health Department",
+            "position": "Regional Health Coordinator",
+            "initial": "2020-06",
+            "finish": "Present",
+            "description": "Coordinates health actions in the metropolitan region, manages the budget for basic health units, and leads the epidemiological surveillance team."
+        }, {
+            "enterprise": "Family Health Strategy",
+            "position": "Community Health Doctor",
+            "initial": "2016-02",
+            "finish": "2020-05",
+            "description": "Provided medical care in vulnerable communities, organized health prevention campaigns, and trained community health agents."
+        }],
+        "formation": [{
+            "course": "Specialization in Public Health",
+            "institution": "Universidade Federal da Bahia (UFBA)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Medicine",
+            "institution": "Universidade Federal da Bahia (UFBA)",
+            "year": 2015
+        }],
+        "projects": [{
+            "titulo": "Maternal-Child Health Monitoring System",
+            "link": "https://carloslima.com/projects/maternal-health",
+            "description": "Development and implementation of a digital system to monitor pregnant women and children in situations of social vulnerability."
+        }],
+        "certifications": ["Public Health Management", "Family Health"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"}
+        ],
+        "interestsArea": ["Epidemiology", "Primary Health Care", "Health Management", "Health Technology"]
+    },
+    {
+        "id": 4,
+        "name": "Fernanda Costa Oliveira",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Environmental Analyst",
+        "summary": "Biologist with master's degree in Ecology, working in environmental licensing and impact studies for infrastructure projects.",
+        "localization": "Brasília/DF",
+        "area": "Environment",
+        "hard_skills": ["Environmental Impact Assessment", "Biodiversity Monitoring", "Geoprocessing", "Environmental Legislation", "Statistical Analysis"],
+        "soft_skills": ["Analytical Thinking", "Attention to Detail", "Report Writing", "Critical Analysis", "Time Management"],
+        "experiences": [{
+            "enterprise": "Brazilian Institute of Environment and Renewable Natural Resources (IBAMA)",
+            "position": "Environmental Analyst",
+            "initial": "2021-01",
+            "finish": "Present",
+            "description": "Analyzes environmental impact reports, conducts field inspections, and issues technical opinions on licensing processes."
+        }, {
+            "enterprise": "EcoConsult Ambiental",
+            "position": "Environmental Consultant",
+            "initial": "2018-04",
+            "finish": "2020-12",
+            "description": "Developed environmental impact studies for energy and transportation projects, including flora and fauna monitoring."
+        }],
+        "formation": [{
+            "course": "Master's in Ecology",
+            "institution": "University of Brasília (UnB)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Biological Sciences",
+            "institution": "University of Brasília (UnB)",
+            "year": 2015
+        }],
+        "projects": [{
+            "titulo": "Monitoring of Cerrado Mammals",
+            "link": "https://fernandaoliveira.com/projects/cerrado-mammals",
+            "description": "Coordination of a long-term project to monitor medium and large mammals in conservation units in the Cerrado."
+        }],
+        "certifications": ["Environmental Licensing", "Wildlife Monitoring Techniques"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Advanced"},
+            {"language": "French", "proficiency": "Basic"}
+        ],
+        "interestsArea": ["Biodiversity Conservation", "Environmental Licensing", "Ecology", "Sustainable Development"]
+    },
+    {
+        "id": 5,
+        "name": "Ricardo Almeida Ferreira",
+        "photo": "./perfil/foto1.jpg",
+        "position": "IT Project Manager",
+        "summary": "Computer scientist with MBA in Project Management, specializing in implementing digital government solutions and digital transformation in the public sector.",
+        "localization": "Recife/PE",
+        "area": "Technology",
+        "hard_skills": ["Agile Methodology", "Software Development", "Database Management", "Cloud Computing", "Information Security"],
+        "soft_skills": ["Leadership", "Strategic Vision", "Conflict Resolution", "Creativity", "Persuasion"],
+        "experiences": [{
+            "enterprise": "Pernambuco Technology Agency",
+            "position": "IT Project Manager",
+            "initial": "2020-09",
+            "finish": "Present",
+            "description": "Manages the development of digital government platforms, coordinates multidisciplinary teams, and manages the technology projects budget."
+        }, {
+            "enterprise": "Digital Solutions S/A",
+            "position": "Systems Analyst",
+            "initial": "2017-03",
+            "finish": "2020-08",
+            "description": "Developed and maintained systems for private clients, working in all phases of the software development lifecycle."
+        }],
+        "formation": [{
+            "course": "MBA in Project Management",
+            "institution": "Fundação Getulio Vargas (FGV)",
+            "year": 2020
+        }, {
+            "course": "Bachelor of Computer Science",
+            "institution": "Universidade Federal de Pernambuco (UFPE)",
+            "year": 2016
+        }],
+        "projects": [{
+            "titulo": "Digital Citizen Portal",
+            "link": "https://ricardoferreira.com/projects/digital-portal",
+            "description": "Coordination of the development of an integrated platform for providing digital public services to citizens."
+        }],
+        "certifications": ["PMI Project Management Professional", "Scrum Master", "AWS Cloud Practitioner"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Fluent"}
+        ],
+        "interestsArea": ["Digital Government", "Artificial Intelligence", "Information Security", "Innovation"]
+    },
+    {
+        "id": 6,
+        "name": "Juliana Pereira Rodrigues",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Education Secretary",
+        "summary": "Pedagogue with experience in educational management and public policies for basic education. Focused on improving educational indicators and teacher training.",
+        "localization": "Fortaleza/CE",
+        "area": "Education",
+        "hard_skills": ["Educational Assessment", "Curriculum Development", "Educational Legislation", "Data Analysis", "Project Management"],
+        "soft_skills": ["Empathy", "Motivation", "Public Speaking", "Mediation", "Emotional Intelligence"],
+        "experiences": [{
+            "enterprise": "Fortaleza Municipal Education Department",
+            "position": "Education Secretary",
+            "initial": "2021-01",
+            "finish": "Present",
+            "description": "Manages the municipal education network, formulates public policies, and manages the budget for basic education."
+        }, {
+            "enterprise": "State Education Council",
+            "position": "Educational Advisor",
+            "initial": "2018-02",
+            "finish": "2020-12",
+            "description": "Advised on the implementation of the Common National Curriculum Base, prepared technical reports, and participated in educational forums."
+        }],
+        "formation": [{
+            "course": "Master's in Education",
+            "institution": "Universidade Federal do Ceará (UFC)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Pedagogy",
+            "institution": "Universidade Federal do Ceará (UFC)",
+            "year": 2015
+        }],
+        "projects": [{
+            "titulo": "Literacy at the Right Age Program",
+            "link": "https://julianarodrigues.com/projects/literacy-program",
+            "description": "Implementation of a municipal program to ensure that all children are literate by the end of the 2nd year of elementary school."
+        }],
+        "certifications": ["Educational Management", "Psychopedagogy"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "Spanish", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["Educational Public Policies", "Teacher Training", "Educational Technology", "Early Childhood Education"]
+    },
+    {
+        "id": 7,
+        "name": "Roberto Santos Andrade",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Public Security Analyst",
+        "summary": "Expert in public security with background in Social Sciences, working in crime prevention and analysis of criminal phenomena.",
+        "localization": "Rio de Janeiro/RJ",
+        "area": "Public Security",
+        "hard_skills": ["Criminal Analysis", "Crime Statistics", "Intelligence Techniques", "Public Security Legislation", "Georeferencing"],
+        "soft_skills": ["Analytical Reasoning", "Discretion", "Crisis Management", "Objectivity", "Resilience"],
+        "experiences": [{
+            "enterprise": "Rio de Janeiro Public Security Institute",
+            "position": "Public Security Analyst",
+            "initial": "2019-07",
+            "finish": "Present",
+            "description": "Produces criminal analysis reports, identifies crime patterns, and supports the formulation of public security policies."
+        }, {
+            "enterprise": "Public Security Secretariat",
+            "position": "Research Assistant",
+            "initial": "2016-09",
+            "finish": "2019-06",
+            "description": "Collected and analyzed data on violence, participated in research on the effectiveness of security programs."
+        }],
+        "formation": [{
+            "course": "Specialization in Public Security",
+            "institution": "Universidade do Estado do Rio de Janeiro (UERJ)",
+            "year": 2019
+        }, {
+            "course": "Bachelor of Social Sciences",
+            "institution": "Universidade Federal do Rio de Janeiro (UFRJ)",
+            "year": 2016
+        }],
+        "projects": [{
+            "titulo": "Integrated Crime Analysis System",
+            "link": "https://robertoandrade.com/projects/crime-analysis",
+            "description": "Development of a system for integrating and analyzing criminal data from various police corporations."
+        }],
+        "certifications": ["Criminal Analysis", "Public Security Management"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"}
+        ],
+        "interestsArea": ["Crime Prevention", "Criminal Analysis", "Public Security Policies", "Urban Violence"]
+    },
+    {
+        "id": 8,
+        "name": "Patrícia Lima Souza",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Social Assistance Manager",
+        "summary": "Social Worker with extensive experience in managing social assistance programs and serving vulnerable populations.",
+        "localization": "Belo Horizonte/MG",
+        "area": "Social Assistance",
+        "hard_skills": ["Social Project Management", "Public Policy Analysis", "Social Work Techniques", "Budget Management", "Social Indicators"],
+        "soft_skills": ["Empathy", "Active Listening", "Conflict Mediation", "Patience", "Emotional Balance"],
+        "experiences": [{
+            "enterprise": "Belo Horizonte Social Assistance Department",
+            "position": "Social Assistance Manager",
+            "initial": "2020-03",
+            "finish": "Present",
+            "description": "Manages the social assistance network, coordinates the teams of the Social Assistance Reference Centers (CRAS), and implements social programs."
+        }, {
+            "enterprise": "Childhood and Youth Foundation",
+            "position": "Social Worker",
+            "initial": "2016-04",
+            "finish": "2020-02",
+            "description": "Provided psychosocial care to children and adolescents in situations of social vulnerability, conducted family visits, and prepared technical reports."
+        }],
+        "formation": [{
+            "course": "Specialization in Public Social Policies",
+            "institution": "Pontifícia Universidade Católica de Minas Gerais (PUC-MG)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Social Work",
+            "institution": "Universidade Federal de Minas Gerais (UFMG)",
+            "year": 2015
+        }],
+        "projects": [{
+            "titulo": "Family Strengthening Program",
+            "link": "https://patriciasouza.com/projects/family-strengthening",
+            "description": "Coordination of a program to support families in situations of social vulnerability, offering psychosocial monitoring and guidance on accessing public policies."
+        }],
+        "certifications": ["Family Guidance", "Social Work in Health"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"}
+        ],
+        "interestsArea": ["Social Assistance", "Vulnerable Populations", "Social Policies", "Human Rights"]
+    },
+    {
+        "id": 9,
+        "name": "Marcos Vinicius Rocha",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Public Works Engineer",
+        "summary": "Civil engineer specialized in public infrastructure projects, with experience in managing works and supervising engineering services.",
+        "localization": "Porto Alegre/RS",
+        "area": "Infrastructure",
+        "hard_skills": ["Project Management", "Budget and Schedule Control", "Construction Management", "Public Bidding", "Technical Specifications"],
+        "soft_skills": ["Leadership", "Problem Solving", "Decision Making", "Organization", "Persistence"],
+        "experiences": [{
+            "enterprise": "Rio Grande do Sul Public Works Department",
+            "position": "Public Works Engineer",
+            "initial": "2019-11",
+            "finish": "Present",
+            "description": "Manages public works projects, supervises construction sites, and prepares technical reports on the progress of works."
+        }, {
+            "enterprise": "Construtora Nacional S/A",
+            "position": "Site Manager",
+            "initial": "2016-01",
+            "finish": "2019-10",
+            "description": "Managed construction sites for residential and commercial buildings, controlling costs, schedules, and quality."
+        }],
+        "formation": [{
+            "course": "Specialization in Public Works Management",
+            "institution": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Civil Engineering",
+            "institution": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+            "year": 2015
+        }],
+        "projects": [{
+            "titulo": "Bridge Restoration Program",
+            "link": "https://marcosrocha.com/projects/bridge-restoration",
+            "description": "Management of the program to restore bridges and viaducts in the state, ensuring safety and traffic flow."
+        }],
+        "certifications": ["Project Management", "Work Safety Engineering"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["Public Infrastructure", "Construction Management", "Urban Mobility", "Engineering"]
+    },
+    {
+        "id": 10,
+        "name": "Camila Nascimento Alves",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Cultural Manager",
+        "summary": "Professional with background in Arts and specialization in Cultural Management, working in the formulation and implementation of cultural policies.",
+        "localization": "Salvador/BA",
+        "area": "Culture",
+        "hard_skills": ["Cultural Project Management", "Cultural Legislation", "Fundraising", "Event Production", "Artistic Production"],
+        "soft_skills": ["Creativity", "Networking", "Communication", "Flexibility", "Innovation"],
+        "experiences": [{
+            "enterprise": "Bahia Culture Secretariat",
+            "position": "Cultural Manager",
+            "initial": "2020-05",
+            "finish": "Present",
+            "description": "Develops cultural policies, manages cultural programs, and coordinates the implementation of the State Culture Plan."
+        }, {
+            "enterprise": "Pelourinho Cultural Center",
+            "position": "Cultural Producer",
+            "initial": "2017-08",
+            "finish": "2020-04",
+            "description": "Produced cultural events, managed the exhibition schedule, and coordinated educational activities."
+        }],
+        "formation": [{
+            "course": "Specialization in Cultural Management",
+            "institution": "Universidade Federal da Bahia (UFBA)",
+            "year": 2019
+        }, {
+            "course": "Bachelor of Visual Arts",
+            "institution": "Universidade Federal da Bahia (UFBA)",
+            "year": 2016
+        }],
+        "projects": [{
+            "titulo": "Culture in the Periphery Program",
+            "link": "https://camilaalves.com/projects/culture-periphery",
+            "description": "Development and implementation of a program to promote cultural activities in peripheral regions of the state."
+        }],
+        "certifications": ["Cultural Management", "Cultural Production"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Intermediate"},
+            {"language": "French", "proficiency": "Basic"}
+        ],
+        "interestsArea": ["Cultural Policies", "Cultural Diversity", "Artistic Production", "Cultural Heritage"]
+    },
+    {
+        "id": 11,
+        "name": "Bruno Carvalho Mendes",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Sports and Leisure Secretary",
+        "summary": "Physical Education professional with experience in managing sports programs and developing public policies for leisure and sports.",
+        "localization": "Manaus/AM",
+        "area": "Sports",
+        "hard_skills": ["Sports Management", "Event Planning", "Sports Infrastructure", "Public Policies", "Project Management"],
+        "soft_skills": ["Leadership", "Motivation", "Teamwork", "Communication", "Resilience"],
+        "experiences": [{
+            "enterprise": "Manaus Sports and Leisure Secretariat",
+            "position": "Sports and Leisure Secretary",
+            "initial": "2021-01",
+            "finish": "Present",
+            "description": "Manages the municipal sports policy, coordinates sports programs, and manages the budget for sports and leisure."
+        }, {
+            "enterprise": "Amazonas Olympic Center",
+            "position": "Sports Coordinator",
+            "initial": "2018-03",
+            "finish": "2020-12",
+            "description": "Coordinated high-performance sports programs, managed the sports calendar, and supervised athletes."
+        }],
+        "formation": [{
+            "course": "Specialization in Sports Management",
+            "institution": "Universidade Federal do Amazonas (UFAM)",
+            "year": 2019
+        }, {
+            "course": "Bachelor of Physical Education",
+            "institution": "Universidade Federal do Amazonas (UFAM)",
+            "year": 2017
+        }],
+        "projects": [{
+            "titulo": "Social Sports Program",
+            "link": "https://brunomendes.com/projects/social-sports",
+            "description": "Implementation of a program to promote sports as a tool for social inclusion in vulnerable communities."
+        }],
+        "certifications": ["Sports Management", "High Performance Training"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"}
+        ],
+        "interestsArea": ["Sports Public Policies", "Social Sports", "Sports Infrastructure", "Athlete Training"]
+    },
+    {
+        "id": 12,
+        "name": "Tatiane Ribeiro Costa",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Public Prosecutor",
+        "summary": "Lawyer with master's degree in Constitutional Law, acting in the defense of collective rights and social interests with emphasis on environmental protection and consumer rights.",
+        "localization": "Florianópolis/SC",
+        "area": "Justice",
+        "hard_skills": ["Legal Analysis", "Case Management", "Constitutional Law", "Environmental Law", "Legal Writing"],
+        "soft_skills": ["Ethical Judgment", "Persuasion", "Critical Analysis", "Objectivity", "Resilience"],
+        "experiences": [{
+            "enterprise": "Public Ministry of Santa Catarina",
+            "position": "Public Prosecutor",
+            "initial": "2019-08",
+            "finish": "Present",
+            "description": "Investigates and files public civil actions, defends diffuse and collective rights, and monitors compliance with environmental legislation."
+        }, {
+            "enterprise": "Silva & Associados Law Firm",
+            "position": "Lawyer",
+            "initial": "2016-02",
+            "finish": "2019-07",
+            "description": "Acted in civil and environmental law cases, representing clients in judicial and administrative proceedings."
+        }],
+        "formation": [{
+            "course": "Master's in Constitutional Law",
+            "institution": "Universidade Federal de Santa Catarina (UFSC)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Law",
+            "institution": "Universidade Federal de Santa Catarina (UFSC)",
+            "year": 2015
+        }],
+        "projects": [{
+            "titulo": "Coastal Protection Action",
+            "link": "https://tatianecosta.com/projects/coastal-protection",
+            "description": "Coordination of a task force to combat irregular occupations in permanent preservation areas on the coast of Santa Catarina."
+        }],
+        "certifications": ["Environmental Law", "Public Civil Action"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Advanced"}
+        ],
+        "interestsArea": ["Environmental Law", "Consumer Law", "Constitutional Law", "Human Rights"]
+    },
+    {
+        "id": 13,
+        "name": "Rafael Mendonça Teixeira",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Public Defender",
+        "summary": "Lawyer dedicated to guaranteeing access to justice for vulnerable populations, with experience in human rights and diffuse rights.",
+        "localization": "Belém/PA",
+        "area": "Justice",
+        "hard_skills": ["Legal Assistance", "Human Rights", "Social Legislation", "Legal Procedures", "Conflict Mediation"],
+        "soft_skills": ["Empathy", "Patience", "Communication", "Resilience", "Social Sensitivity"],
+        "experiences": [{
+            "enterprise": "Public Defender's Office of Pará",
+            "position": "Public Defender",
+            "initial": "2020-02",
+            "finish": "Present",
+            "description": "Provides legal assistance to low-income populations, acts in collective actions for right to housing and health, and conducts legal awareness activities."
+        }, {
+            "enterprise": "Human Rights Center",
+            "position": "Legal Advisor",
+            "initial": "2017-05",
+            "finish": "2020-01",
+            "description": "Provided legal guidance to social movements, prepared human rights reports, and acted in cases of violation of fundamental rights."
+        }],
+        "formation": [{
+            "course": "Specialization in Human Rights",
+            "institution": "Universidade Federal do Pará (UFPA)",
+            "year": 2019
+        }, {
+            "course": "Bachelor of Law",
+            "institution": "Universidade Federal do Pará (UFPA)",
+            "year": 2016
+        }],
+        "projects": [{
+            "titulo": "Riverside Legal Assistance",
+            "link": "https://rafaelteixeira.com/projects/riverside-assistance",
+            "description": "Implementation of a floating office to provide legal assistance to riverside communities in the Amazon region."
+        }],
+        "certifications": ["Human Rights", "Access to Justice"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"}
+        ],
+        "interestsArea": ["Human Rights", "Access to Justice", "Social Rights", "Traditional Populations"]
+    },
+    {
+        "id": 14,
+        "name": "Isabela Santos Oliveira",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Public Policy Analyst",
+        "summary": "Social scientist with experience in formulating, monitoring and evaluating public policies, with emphasis on social development programs.",
+        "localization": "Brasília/DF",
+        "area": "Planning",
+        "hard_skills": ["Policy Analysis", "Program Evaluation", "Statistical Methods", "Indicator Monitoring", "Report Preparation"],
+        "soft_skills": ["Analytical Thinking", "Critical Sense", "Writing", "Organization", "Attention to Detail"],
+        "experiences": [{
+            "enterprise": "Ministry of Citizenship",
+            "position": "Public Policy Analyst",
+            "initial": "2019-11",
+            "finish": "Present",
+            "description": "Analyzes social programs, monitors performance indicators, and prepares technical reports to support decision-making."
+        }, {
+            "enterprise": "Institute for Applied Economic Research (IPEA)",
+            "position": "Research Analyst",
+            "initial": "2017-03",
+            "finish": "2019-10",
+            "description": "Conducted research on social policies, analyzed data, and contributed to studies on poverty and inequality."
+        }],
+        "formation": [{
+            "course": "Master's in Public Policy",
+            "institution": "University of Brasília (UnB)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Social Sciences",
+            "institution": "University of Brasília (UnB)",
+            "year": 2015
+        }],
+        "projects": [{
+            "titulo": "Evaluation of Social Program Impact",
+            "link": "https://isabelaoliveira.com/projects/program-evaluation",
+            "description": "Coordination of impact assessment study of federal income transfer program on child development."
+        }],
+        "certifications": ["Public Policy Evaluation", "Statistical Analysis"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Fluent"},
+            {"language": "Spanish", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["Social Policies", "Program Evaluation", "Social Development", "Public Management"]
+    },
+    {
+        "id": 15,
+        "name": "Leonardo Ferreira Silva",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Federal Auditor",
+        "summary": "Economist specialized in public finance and external control, acting in auditing and inspection of the application of public resources.",
+        "localization": "Brasília/DF",
+        "area": "Control",
+        "hard_skills": ["Public Audit", "Financial Analysis", "Public Accounting", "Fiscal Legislation", "Risk Analysis"],
+        "soft_skills": ["Ethics", "Rigor", "Discretion", "Critical Analysis", "Objectivity"],
+        "experiences": [{
+            "enterprise": "Federal Audit Court (TCU)",
+            "position": "Federal Auditor",
+            "initial": "2018-06",
+            "finish": "Present",
+            "description": "Conducts audits in federal public bodies, analyzes accounts of government managers, and investigates irregularities in the use of public resources."
+        }, {
+            "enterprise": "Central Bank of Brazil",
+            "position": "Financial Analyst",
+            "initial": "2015-09",
+            "finish": "2018-05",
+            "description": "Analyzed financial institutions, monitored compliance with regulations, and participated in inspection actions."
+        }],
+        "formation": [{
+            "course": "Specialization in Public Finance",
+            "institution": "Fundação Getulio Vargas (FGV)",
+            "year": 2017
+        }, {
+            "course": "Bachelor of Economics",
+            "institution": "Universidade de Brasília (UnB)",
+            "year": 2014
+        }],
+        "projects": [{
+            "titulo": "Audit of Education Resources",
+            "link": "https://leonardosilva.com/projects/education-audit",
+            "description": "Coordination of audit to verify the application of federal resources in basic education programs."
+        }],
+        "certifications": ["Public Audit", "Public Finance"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Advanced"}
+        ],
+        "interestsArea": ["Public Audit", "External Control", "Public Finance", "Transparency"]
+    },
+    {
+        "id": 16,
+        "name": "Mariana Costa Lima",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Science and Technology Manager",
+        "summary": "Biochemist with doctorate in Biotechnology, working in the management of research, innovation and scientific development programs.",
+        "localization": "Campinas/SP",
+        "area": "Science and Technology",
+        "hard_skills": ["Research Management", "Innovation Policies", "Grant Management", "Scientific Evaluation", "Technology Transfer"],
+        "soft_skills": ["Strategic Vision", "Innovation", "Networking", "Persuasion", "Adaptability"],
+        "experiences": [{
+            "enterprise": "São Paulo Research Foundation (FAPESP)",
+            "position": "Science and Technology Manager",
+            "initial": "2020-04",
+            "finish": "Present",
+            "description": "Manages research funding programs, evaluates scientific projects, and develops strategies to promote innovation."
+        }, {
+            "enterprise": "Pharmaceutical Biotechnology Center",
+            "position": "Researcher",
+            "initial": "2016-08",
+            "finish": "2020-03",
+            "description": "Conducted scientific research in drug development, published articles, and supervised graduate students."
+        }],
+        "formation": [{
+            "course": "PhD in Biotechnology",
+            "institution": "State University of Campinas (UNICAMP)",
+            "year": 2016
+        }, {
+            "course": "Bachelor of Biochemistry",
+            "institution": "State University of Campinas (UNICAMP)",
+            "year": 2012
+        }],
+        "projects": [{
+            "titulo": "Innovation in Health Program",
+            "link": "https://marianalima.com/projects/health-innovation",
+            "description": "Coordination of program to fund research and development of health technologies and medicines."
+        }],
+        "certifications": ["Technology Management", "Intellectual Property"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Fluent"},
+            {"language": "French", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["Scientific Research", "Innovation", "Biotechnology", "Technology Transfer"]
+    },
+    {
+        "id": 17,
+        "name": "André Pereira Santos",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Human Resources Manager",
+        "summary": "Administrator with specialization in People Management, acting in personnel administration, development and management of public servants.",
+        "localization": "Belo Horizonte/MG",
+        "area": "Administration",
+        "hard_skills": ["Personnel Management", "Public Tenders", "Training Development", "Performance Evaluation", "Labor Legislation"],
+        "soft_skills": ["Interpersonal Relationship", "Emotional Intelligence", "Leadership", "Communication", "Conflict Mediation"],
+        "experiences": [{
+            "enterprise": "Minas Gerais State Administration Secretariat",
+            "position": "Human Resources Manager",
+            "initial": "2019-09",
+            "finish": "Present",
+            "description": "Manages personnel policies, coordinates public tender processes, and develops training programs for public servants."
+        }, {
+            "enterprise": "Municipal Human Resources Department",
+            "position": "HR Analyst",
+            "initial": "2016-11",
+            "finish": "2019-08",
+            "description": "Performed personnel administration, processed payroll, and provided guidance on labor legislation."
+        }],
+        "formation": [{
+            "course": "Specialization in People Management",
+            "institution": "Fundação Getulio Vargas (FGV)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Business Administration",
+            "institution": "Universidade Federal de Minas Gerais (UFMG)",
+            "year": 2015
+        }],
+        "projects": [{
+            "titulo": "Public Servant Development Program",
+            "link": "https://andresantos.com/projects/servant-development",
+            "description": "Implementation of a continuing education and professional development program for state public servants."
+        }],
+        "certifications": ["People Management", "Coaching"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["People Management", "Organizational Development", "Public Administration", "Labor Relations"]
+    },
+    {
+        "id": 18,
+        "name": "Carla Rodrigues Almeida",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Agrarian Development Technician",
+        "summary": "Agronomist with experience in rural development programs, family farming and sustainable agricultural production.",
+        "localization": "Goiânia/GO",
+        "area": "Agrarian Development",
+        "hard_skills": ["Rural Extension", "Agricultural Projects", "Sustainable Production", "Rural Credit", "Soil Management"],
+        "soft_skills": ["Proactivity", "Resilience", "Communication", "Adaptability", "Problem Solving"],
+        "experiences": [{
+            "enterprise": "National Institute of Colonization and Agrarian Reform (INCRA)",
+            "position": "Agrarian Development Technician",
+            "initial": "2018-12",
+            "finish": "Present",
+            "description": "Provides technical assistance to settlement projects, develops sustainable production plans, and manages rural credit programs."
+        }, {
+            "enterprise": "Technical Assistance and Rural Extension Company",
+            "position": "Rural Extensionist",
+            "initial": "2016-03",
+            "finish": "2018-11",
+            "description": "Provided technical guidance to family farmers, implemented sustainable practices, and organized producer groups."
+        }],
+        "formation": [{
+            "course": "Specialization in Agrarian Development",
+            "institution": "Universidade Federal de Goiás (UFG)",
+            "year": 2017
+        }, {
+            "course": "Bachelor of Agronomy",
+            "institution": "Universidade Federal de Goiás (UFG)",
+            "year": 2015
+        }],
+        "projects": [{
+            "titulo": "Sustainable Settlement Program",
+            "link": "https://carlaalmeida.com/projects/sustainable-settlement",
+            "description": "Implementation of agroecological practices and sustainable production systems in agrarian reform settlements."
+        }],
+        "certifications": ["Agroecology", "Rural Extension"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"}
+        ],
+        "interestsArea": ["Family Farming", "Agrarian Reform", "Sustainable Agriculture", "Rural Development"]
+    },
+    {
+        "id": 19,
+        "name": "Paulo Henrique Barbosa",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Tourism Manager",
+        "summary": "Tourism professional with experience in developing and managing tourist destinations, with emphasis on sustainable and cultural tourism.",
+        "localization": "Recife/PE",
+        "area": "Tourism",
+        "hard_skills": ["Tourist Planning", "Destination Management", "Tourism Projects", "Cultural Heritage", "Event Organization"],
+        "soft_skills": ["Creativity", "Networking", "Communication", "Entrepreneurship", "Cultural Sensitivity"],
+        "experiences": [{
+            "enterprise": "Pernambuco Tourism Secretariat",
+            "position": "Tourism Manager",
+            "initial": "2020-01",
+            "finish": "Present",
+            "description": "Develops tourism policies, manages tourist destination projects, and coordinates promotional actions."
+        }, {
+            "enterprise": "Local Tourism Agency",
+            "position": "Tourism Consultant",
+            "initial": "2017-06",
+            "finish": "2019-12",
+            "description": "Developed tourism projects for municipalities, conducted market studies, and organized tourist events."
+        }],
+        "formation": [{
+            "course": "Specialization in Tourism Management",
+            "institution": "Universidade Federal de Pernambuco (UFPE)",
+            "year": 2019
+        }, {
+            "course": "Bachelor of Tourism",
+            "institution": "Universidade Federal de Pernambuco (UFPE)",
+            "year": 2016
+        }],
+        "projects": [{
+            "titulo": "Cultural Tourism Route",
+            "link": "https://paulobarbosa.com/projects/cultural-route",
+            "description": "Creation and implementation of a cultural tourism route connecting historical heritage sites in the state."
+        }],
+        "certifications": ["Tourism Management", "Cultural Heritage"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Advanced"},
+            {"language": "Spanish", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["Cultural Tourism", "Sustainable Tourism", "Destination Management", "Tourist Heritage"]
+    },
+    {
+        "id": 20,
+        "name": "Fernanda Oliveira Souza",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Social Communication Analyst",
+        "summary": "Journalist with experience in institutional communication, press advisory and digital media management in the public sector.",
+        "localization": "Porto Alegre/RS",
+        "area": "Communication",
+        "hard_skills": ["Institutional Communication", "Press Advisory", "Digital Media", "Content Production", "Crisis Communication"],
+        "soft_skills": ["Communication", "Creativity", "Adaptability", "Networking", "Persuasion"],
+        "experiences": [{
+            "enterprise": "Rio Grande do Sul Communication Secretariat",
+            "position": "Social Communication Analyst",
+            "initial": "2019-07",
+            "finish": "Present",
+            "description": "Manages institutional communication, advises government officials, coordinates press relations, and manages digital channels."
+        }, {
+            "enterprise": "Regional Newspaper",
+            "position": "Reporter",
+            "initial": "2016-09",
+            "finish": "2019-06",
+            "description": "Covered politics and public administration, produced investigative reports, and edited news content."
+        }],
+        "formation": [{
+            "course": "Specialization in Institutional Communication",
+            "institution": "Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Journalism",
+            "institution": "Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)",
+            "year": 2015
+        }],
+        "projects": [{
+            "titulo": "Digital Government Communication",
+            "link": "https://fernandasouza.com/projects/digital-communication",
+            "description": "Restructuring of the government's digital communication to improve transparency and citizen engagement."
+        }],
+        "certifications": ["Digital Communication", "Press Advisory"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Fluent"},
+            {"language": "Spanish", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["Institutional Communication", "Digital Media", "Transparency", "Citizen Engagement"]
+    },
+    {
+        "id": 21,
+        "name": "Rodrigo Silva Costa",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Urban Mobility Coordinator",
+        "summary": "Transport engineer specialized in urban mobility, working in planning and managing public transport and active mobility systems.",
+        "localization": "Fortaleza/CE",
+        "area": "Mobility",
+        "hard_skills": ["Transport Planning", "Traffic Engineering", "Public Transport", "Mobility Systems", "Data Analysis"],
+        "soft_skills": ["Systemic Vision", "Problem Solving", "Leadership", "Negotiation", "Innovation"],
+        "experiences": [{
+            "enterprise": "Fortaleza Urban Mobility Secretariat",
+            "position": "Urban Mobility Coordinator",
+            "initial": "2020-03",
+            "finish": "Present",
+            "description": "Coordinates urban mobility projects, manages the public transport system, and implements active mobility policies."
+        }, {
+            "enterprise": "Transport Consulting Company",
+            "position": "Transport Engineer",
+            "initial": "2017-08",
+            "finish": "2020-02",
+            "description": "Developed transport studies, modeled traffic, and planned transport systems for cities."
+        }],
+        "formation": [{
+            "course": "Master's in Transport Engineering",
+            "institution": "Universidade Federal do Ceará (UFC)",
+            "year": 2017
+        }, {
+            "course": "Bachelor of Civil Engineering",
+            "institution": "Universidade Federal do Ceará (UFC)",
+            "year": 2014
+        }],
+        "projects": [{
+            "titulo": "Integrated Public Transport System",
+            "link": "https://rodrigocosta.com/projects/integrated-transport",
+            "description": "Planning and implementation of an integrated fare system between buses, subway and bike-sharing."
+        }],
+        "certifications": ["Transport Engineering", "Urban Mobility"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Advanced"}
+        ],
+        "interestsArea": ["Public Transport", "Active Mobility", "Sustainable Transport", "Urban Planning"]
+    },
+    {
+        "id": 22,
+        "name": "Prof. Dr. Miguel Santos Carvalho",
+        "photo": "./perfil/foto1.jpg",
+        "position": "University Professor",
+        "summary": "PhD in Education with 15 years of experience in higher education, researching educational technologies and innovative teaching methodologies.",
+        "localization": "São Paulo/SP",
+        "area": "Education",
+        "hard_skills": ["Academic Research", "Curriculum Development", "Educational Technology", "Scientific Writing", "Project Management"],
+        "soft_skills": ["Mentoring", "Public Speaking", "Critical Thinking", "Patience", "Adaptability"],
+        "experiences": [{
+            "enterprise": "Pontifícia Universidade Católica de São Paulo (PUC-SP)",
+            "position": "Associate Professor",
+            "initial": "2018-02",
+            "finish": "Present",
+            "description": "Teaches undergraduate and graduate courses in Education, supervises master's and doctoral students, and develops research in educational technology."
+        }, {
+            "enterprise": "Universidade de São Paulo (USP)",
+            "position": "Assistant Professor",
+            "initial": "2012-03",
+            "finish": "2018-01",
+            "description": "Taught courses in Pedagogy, coordinated research projects, and published articles in national and international journals."
+        }],
+        "formation": [{
+            "course": "PhD in Education",
+            "institution": "Universidade de São Paulo (USP)",
+            "year": 2012
+        }, {
+            "course": "Master's in Education",
+            "institution": "Universidade Estadual de Campinas (UNICAMP)",
+            "year": 2008
+        }, {
+            "course": "Bachelor of Pedagogy",
+            "institution": "Universidade de São Paulo (USP)",
+            "year": 2005
+        }],
+        "projects": [{
+            "titulo": "Digital Technologies in Basic Education",
+            "link": "https://miguelcarvalho.com/projects/edutech",
+            "description": "Research on the implementation and impact of digital technologies in public basic education networks."
+        }],
+        "certifications": ["Distance Education", "Active Learning Methodologies"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Fluent"},
+            {"language": "Spanish", "proficiency": "Advanced"}
+        ],
+        "interestsArea": ["Educational Technology", "Teacher Training", "Innovative Methodologies", "Educational Research"]
+    },
+    {
+        "id": 23,
+        "name": "Dra. Simone Alves Pereira",
+        "photo": "./perfil/foto1.jpg",
+        "position": "High School Teacher",
+        "summary": "Licensed in Literature with specialization in Portuguese Language Teaching, dedicated to innovative pedagogical practices and student development.",
+        "localization": "Rio de Janeiro/RJ",
+        "area": "Education",
+        "hard_skills": ["Lesson Planning", "Educational Assessment", "Curriculum Adaptation", "Text Production", "Literary Analysis"],
+        "soft_skills": ["Empathy", "Communication", "Creativity", "Resilience", "Motivation"],
+        "experiences": [{
+            "enterprise": "State Education Network of Rio de Janeiro",
+            "position": "High School Teacher",
+            "initial": "2019-03",
+            "finish": "Present",
+            "description": "Teaches Portuguese Language and Literature, develops interdisciplinary projects, and coordinates reading incentive activities."
+        }, {
+            "enterprise": "Private School System",
+            "position": "Elementary School Teacher",
+            "initial": "2016-02",
+            "finish": "2019-02",
+            "description": "Taught Portuguese Language for elementary school, organized cultural events, and participated in pedagogical planning."
+        }],
+        "formation": [{
+            "course": "Specialization in Portuguese Language Teaching",
+            "institution": "Universidade do Estado do Rio de Janeiro (UERJ)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Letters - Portuguese",
+            "institution": "Universidade Federal do Rio de Janeiro (UFRJ)",
+            "year": 2015
+        }],
+        "projects": [{
+            "titulo": "Young Readers Club",
+            "link": "https://simonepereira.com/projects/readers-club",
+            "description": "Creation and coordination of a reading club to encourage the reading habit among high school students."
+        }],
+        "certifications": ["Textual Production", "Literary Criticism"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Intermediate"},
+            {"language": "French", "proficiency": "Basic"}
+        ],
+        "interestsArea": ["Reading Incentive", "Text Production", "Literature", "Teacher Training"]
+    },
+    {
+        "id": 24,
+        "name": "Ricardo Martins Ferreira",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Data Scientist",
+        "summary": "Computer scientist with MBA in Data Science, specializing in big data analysis and machine learning for public policy optimization.",
+        "localization": "São Paulo/SP",
+        "area": "Technology",
+        "hard_skills": ["Python Programming", "Machine Learning", "Data Analysis", "Big Data", "Statistical Modeling"],
+        "soft_skills": ["Analytical Thinking", "Problem Solving", "Attention to Detail", "Curiosity", "Continuous Learning"],
+        "experiences": [{
+            "enterprise": "São Paulo City Hall",
+            "position": "Data Scientist",
+            "initial": "2020-08",
+            "finish": "Present",
+            "description": "Develops predictive models for public services, analyzes urban data, and creates dashboards for decision support."
+        }, {
+            "enterprise": "Tech Innovation Startup",
+            "position": "Data Analyst",
+            "initial": "2018-04",
+            "finish": "2020-07",
+            "description": "Analyzed user behavior data, developed recommendation algorithms, and created data visualization reports."
+        }],
+        "formation": [{
+            "course": "MBA in Data Science",
+            "institution": "FIAP",
+            "year": 2020
+        }, {
+            "course": "Bachelor of Computer Science",
+            "institution": "Universidade Presbiteriana Mackenzie",
+            "year": 2017
+        }],
+        "projects": [{
+            "titulo": "Urban Mobility Prediction System",
+            "link": "https://ricardoferreira.com/projects/mobility-prediction",
+            "description": "Development of a machine learning system to predict traffic patterns and optimize public transport routes."
+        }],
+        "certifications": ["AWS Certified Data Analytics", "Google Cloud Professional Data Engineer"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Fluent"}
+        ],
+        "interestsArea": ["Artificial Intelligence", "Big Data", "Urban Analytics", "Predictive Models"]
+    },
+    {
+        "id": 25,
+        "name": "Patrícia Nunes Costa",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Nursing Coordinator",
+        "summary": "Nurse with master's degree in Public Health, experienced in managing nursing teams and implementing health programs in primary care.",
+        "localization": "Belo Horizonte/MG",
+        "area": "Health",
+        "hard_skills": ["Health Management", "Nursing Care", "Primary Health Care", "Epidemiology", "Health Education"],
+        "soft_skills": ["Leadership", "Empathy", "Team Coordination", "Crisis Management", "Communication"],
+        "experiences": [{
+            "enterprise": "Municipal Health Department of Belo Horizonte",
+            "position": "Nursing Coordinator",
+            "initial": "2019-06",
+            "finish": "Present",
+            "description": "Coordinates nursing teams in basic health units, implements care protocols, and develops health education programs."
+        }, {
+            "enterprise": "University Hospital",
+            "position": "Nurse",
+            "initial": "2016-02",
+            "finish": "2019-05",
+            "description": "Provided direct patient care, supervised nursing technicians, and participated in clinical research projects."
+        }],
+        "formation": [{
+            "course": "Master's in Public Health",
+            "institution": "Universidade Federal de Minas Gerais (UFMG)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Nursing",
+            "institution": "Pontifícia Universidade Católica de Minas Gerais (PUC-MG)",
+            "year": 2015
+        }],
+        "projects": [{
+            "titulo": "Chronic Patient Monitoring Program",
+            "link": "https://patriciacosta.com/projects/patient-monitoring",
+            "description": "Implementation of a home monitoring program for patients with chronic diseases in primary care."
+        }],
+        "certifications": ["Family Health", "Urgency and Emergency"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["Primary Health Care", "Health Management", "Nursing", "Public Health"]
+    },
+    {
+        "id": 26,
+        "name": "Carlos Eduardo Ramos",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Cybersecurity Specialist",
+        "summary": "Information security professional with certifications in cybersecurity, protecting critical government infrastructure and data.",
+        "localization": "Brasília/DF",
+        "area": "Technology",
+        "hard_skills": ["Network Security", "Digital Forensics", "Incident Response", "Cryptography", "Vulnerability Analysis"],
+        "soft_skills": ["Analytical Thinking", "Discretion", "Problem Solving", "Attention to Detail", "Stress Management"],
+        "experiences": [{
+            "enterprise": "Federal Government",
+            "position": "Cybersecurity Specialist",
+            "initial": "2020-01",
+            "finish": "Present",
+            "description": "Implements security policies, conducts penetration tests, responds to security incidents, and protects critical systems."
+        }, {
+            "enterprise": "Private Bank",
+            "position": "Information Security Analyst",
+            "initial": "2017-08",
+            "finish": "2019-12",
+            "description": "Monitored security systems, investigated security incidents, and implemented security controls."
+        }],
+        "formation": [{
+            "course": "Specialization in Cybersecurity",
+            "institution": "FIAP",
+            "year": 2019
+        }, {
+            "course": "Bachelor of Information Systems",
+            "institution": "Universidade de Brasília (UnB)",
+            "year": 2016
+        }],
+        "projects": [{
+            "titulo": "Critical Infrastructure Protection",
+            "link": "https://carlosramos.com/projects/infrastructure-protection",
+            "description": "Development and implementation of a protection plan for critical government technology infrastructure."
+        }],
+        "certifications": ["CISSP", "CEH", "CompTIA Security+"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Fluent"}
+        ],
+        "interestsArea": ["Cybersecurity", "Digital Forensics", "Critical Infrastructure", "Information Security"]
+    },
+    {
+        "id": 27,
+        "name": "Prof. Me. Ana Carolina Mendes",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Elementary School Teacher",
+        "summary": "Pedagogue with master's degree in Education, specializing in literacy and early childhood education with innovative approaches.",
+        "localization": "Curitiba/PR",
+        "area": "Education",
+        "hard_skills": ["Literacy Methods", "Child Development", "Educational Games", "Curriculum Planning", "Learning Assessment"],
+        "soft_skills": ["Patience", "Creativity", "Communication", "Adaptability", "Emotional Intelligence"],
+        "experiences": [{
+            "enterprise": "Municipal Education Network of Curitiba",
+            "position": "Elementary School Teacher",
+            "initial": "2018-02",
+            "finish": "Present",
+            "description": "Teaches early years of elementary school, develops literacy projects, and coordinates pedagogical activities."
+        }, {
+            "enterprise": "Child Education Center",
+            "position": "Early Childhood Educator",
+            "initial": "2015-03",
+            "finish": "2018-01",
+            "description": "Worked with early childhood education, developing play activities and monitoring child development."
+        }],
+        "formation": [{
+            "course": "Master's in Education",
+            "institution": "Universidade Federal do Paraná (UFPR)",
+            "year": 2017
+        }, {
+            "course": "Bachelor of Pedagogy",
+            "institution": "Pontifícia Universidade Católica do Paraná (PUC-PR)",
+            "year": 2014
+        }],
+        "projects": [{
+            "titulo": "Playful Literacy Program",
+            "link": "https://anamendes.com/projects/playful-literacy",
+            "description": "Development of a literacy program using games and playful activities for elementary school."
+        }],
+        "certifications": ["Psychomotricity", "Educational Games"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"}
+        ],
+        "interestsArea": ["Literacy", "Early Childhood Education", "Educational Games", "Child Development"]
+    },
+    {
+        "id": 28,
+        "name": "Julio Cesar Oliveira",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Full Stack Developer",
+        "summary": "Systems analyst and developer with expertise in modern web technologies and agile software development for government digital services.",
+        "localization": "São Paulo/SP",
+        "area": "Technology",
+        "hard_skills": ["JavaScript", "React", "Node.js", "Cloud Computing", "Database Management"],
+        "soft_skills": ["Problem Solving", "Teamwork", "Continuous Learning", "Creativity", "Attention to Detail"],
+        "experiences": [{
+            "enterprise": "São Paulo State Technology Department",
+            "position": "Full Stack Developer",
+            "initial": "2019-09",
+            "finish": "Present",
+            "description": "Develops and maintains government digital platforms, implements new features, and optimizes system performance."
+        }, {
+            "enterprise": "Digital Solutions Startup",
+            "position": "Web Developer",
+            "initial": "2017-04",
+            "finish": "2019-08",
+            "description": "Developed web applications, implemented responsive interfaces, and integrated with REST APIs."
+        }],
+        "formation": [{
+            "course": "Bachelor of Information Systems",
+            "institution": "FIAP",
+            "year": 2017
+        }, {
+            "course": "Technical in Informatics",
+            "institution": "ETEC",
+            "year": 2014
+        }],
+        "projects": [{
+            "titulo": "Digital Public Services Platform",
+            "link": "https://juliooliveira.com/projects/digital-services",
+            "description": "Development of a unified platform for providing digital public services to citizens."
+        }],
+        "certifications": ["AWS Developer Associate", "Scrum Developer"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Advanced"}
+        ],
+        "interestsArea": ["Web Development", "Cloud Computing", "Digital Government", "Software Architecture"]
+    },
+    {
+        "id": 29,
+        "name": "Dra. Mariana Santos Silva",
+        "photo": "./perfil/foto1.jpg",
+        "position": "University Professor - Law",
+        "summary": "Doctor in Constitutional Law with extensive academic experience, researching human rights and constitutional guarantees.",
+        "localization": "Porto Alegre/RS",
+        "area": "Education",
+        "hard_skills": ["Legal Research", "Constitutional Law", "Academic Writing", "Thesis Supervision", "Scientific Methodology"],
+        "soft_skills": ["Critical Analysis", "Public Speaking", "Mentoring", "Argumentation", "Intellectual Curiosity"],
+        "experiences": [{
+            "enterprise": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+            "position": "Associate Professor",
+            "initial": "2017-03",
+            "finish": "Present",
+            "description": "Teaches Constitutional Law and Human Rights, supervises graduate students, and conducts academic research."
+        }, {
+            "enterprise": "State Court of Justice",
+            "position": "Legal Advisor",
+            "initial": "2014-02",
+            "finish": "2017-02",
+            "description": "Provided legal advice to judges, prepared legal opinions, and analyzed constitutional cases."
+        }],
+        "formation": [{
+            "course": "PhD in Constitutional Law",
+            "institution": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+            "year": 2016
+        }, {
+            "course": "Master's in Law",
+            "institution": "Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)",
+            "year": 2012
+        }, {
+            "course": "Bachelor of Law",
+            "institution": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+            "year": 2009
+        }],
+        "projects": [{
+            "titulo": "Constitutional Guarantees in the Digital Age",
+            "link": "https://marianasilva.com/projects/digital-constitution",
+            "description": "Research on the adaptation of constitutional guarantees to the challenges of the digital era and new technologies."
+        }],
+        "certifications": ["Human Rights", "Constitutional Law"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Fluent"},
+            {"language": "French", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["Constitutional Law", "Human Rights", "Legal Theory", "Digital Law"]
+    },
+    {
+        "id": 30,
+        "name": "Roberto Almeida Costa",
+        "photo": "./perfil/foto1.jpg",
+        "position": "DevOps Engineer",
+        "summary": "IT professional specialized in DevOps practices, automation and cloud infrastructure for government technology environments.",
+        "localization": "Brasília/DF",
+        "area": "Technology",
+        "hard_skills": ["Docker", "Kubernetes", "CI/CD", "AWS", "Infrastructure as Code"],
+        "soft_skills": ["Collaboration", "Problem Solving", "Proactivity", "Adaptability", "Continuous Learning"],
+        "experiences": [{
+            "enterprise": "Federal Data Processing Service (SERPRO)",
+            "position": "DevOps Engineer",
+            "initial": "2020-05",
+            "finish": "Present",
+            "description": "Implements and maintains CI/CD pipelines, manages container orchestration, and automates infrastructure processes."
+        }, {
+            "enterprise": "Technology Consulting Company",
+            "position": "Infrastructure Analyst",
+            "initial": "2018-01",
+            "finish": "2020-04",
+            "description": "Managed server infrastructure, implemented monitoring solutions, and provided technical support."
+        }],
+        "formation": [{
+            "course": "Specialization in Cloud Computing",
+            "institution": "FIAP",
+            "year": 2019
+        }, {
+            "course": "Bachelor of Computer Science",
+            "institution": "Universidade de Brasília (UnB)",
+            "year": 2017
+        }],
+        "projects": [{
+            "titulo": "Government Cloud Migration",
+            "link": "https://robertocosta.com/projects/cloud-migration",
+            "description": "Coordination of the migration of government systems to cloud infrastructure with implementation of DevOps practices."
+        }],
+        "certifications": ["AWS Solutions Architect", "Kubernetes Administrator", "Docker Certified Associate"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Fluent"}
+        ],
+        "interestsArea": ["Cloud Computing", "Infrastructure Automation", "Containerization", "Site Reliability Engineering"]
+    },
+    {
+        "id": 31,
+        "name": "Prof. Dr. Antonio Carlos Ferreira",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Professor of Medicine",
+        "summary": "Medical doctor with PhD in Cardiology, combining clinical practice with academic activity and research in cardiovascular diseases.",
+        "localization": "São Paulo/SP",
+        "area": "Education",
+        "hard_skills": ["Medical Research", "Clinical Teaching", "Scientific Methodology", "Medical Diagnosis", "Treatment Protocols"],
+        "soft_skills": ["Empathy", "Communication", "Leadership", "Mentoring", "Emotional Balance"],
+        "experiences": [{
+            "enterprise": "Faculdade de Medicina da Santa Casa de São Paulo",
+            "position": "Professor of Cardiology",
+            "initial": "2018-04",
+            "finish": "Present",
+            "description": "Teaches cardiology to medical students, supervises medical residency, and conducts clinical research."
+        }, {
+            "enterprise": "University Hospital",
+            "position": "Cardiologist",
+            "initial": "2015-03",
+            "finish": "2018-03",
+            "description": "Provided cardiology care, performed diagnostic procedures, and participated in on-call duty."
+        }],
+        "formation": [{
+            "course": "PhD in Cardiology",
+            "institution": "Universidade de São Paulo (USP)",
+            "year": 2017
+        }, {
+            "course": "Residency in Cardiology",
+            "institution": "Hospital das Clínicas - USP",
+            "year": 2014
+        }, {
+            "course": "Bachelor of Medicine",
+            "institution": "Universidade de São Paulo (USP)",
+            "year": 2010
+        }],
+        "projects": [{
+            "titulo": "Prevention of Cardiovascular Diseases",
+            "link": "https://antonioferreira.com/projects/cardio-prevention",
+            "description": "Research on prevention strategies and early diagnosis of cardiovascular diseases in primary care."
+        }],
+        "certifications": ["Cardiology", "Echocardiography", "Intensive Care"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Fluent"},
+            {"language": "Spanish", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["Cardiology", "Medical Education", "Clinical Research", "Public Health"]
+    },
+    {
+        "id": 32,
+        "name": "Amanda Ribeiro Torres",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Early Childhood Education Teacher",
+        "summary": "Pedagogue specialized in Early Childhood Education, developing playful and creative activities for child development.",
+        "localization": "Florianópolis/SC",
+        "area": "Education",
+        "hard_skills": ["Child Development", "Playful Activities", "Educational Planning", "Child Assessment", "Classroom Management"],
+        "soft_skills": ["Patience", "Creativity", "Affection", "Communication", "Adaptability"],
+        "experiences": [{
+            "enterprise": "Municipal Early Childhood Education Center",
+            "position": "Early Childhood Education Teacher",
+            "initial": "2019-02",
+            "finish": "Present",
+            "description": "Works with children from 2 to 5 years old, develops sensory and motor activities, and monitors child development."
+        }, {
+            "enterprise": "Private Kindergarten",
+            "position": "Assistant Teacher",
+            "initial": "2017-03",
+            "finish": "2019-01",
+            "description": "Assisted the lead teacher in daily activities, helped with child care, and organized educational materials."
+        }],
+        "formation": [{
+            "course": "Specialization in Early Childhood Education",
+            "institution": "Universidade do Vale do Itajaí (UNIVALI)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Pedagogy",
+            "institution": "Universidade Federal de Santa Catarina (UFSC)",
+            "year": 2016
+        }],
+        "projects": [{
+            "titulo": "Sensory Garden for Children",
+            "link": "https://amandatorres.com/projects/sensory-garden",
+            "description": "Creation of an interactive sensory garden to stimulate children's senses and connection with nature."
+        }],
+        "certifications": ["Child Psychomotricity", "Musicalization in Early Childhood Education"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"}
+        ],
+        "interestsArea": ["Early Childhood Education", "Child Development", "Educational Games", "Inclusive Education"]
+    },
+    {
+        "id": 33,
+        "name": "Bruno Costa Lima",
+        "photo": "./perfil/foto1.jpg",
+        "position": "AI Engineer",
+        "summary": "Computer engineer specialized in Artificial Intelligence, developing intelligent solutions for public service optimization.",
+        "localization": "Campinas/SP",
+        "area": "Technology",
+        "hard_skills": ["Machine Learning", "Deep Learning", "Natural Language Processing", "Computer Vision", "Python Programming"],
+        "soft_skills": ["Innovation", "Analytical Thinking", "Problem Solving", "Continuous Learning", "Teamwork"],
+        "experiences": [{
+            "enterprise": "Center for Information Technology Renato Archer",
+            "position": "AI Engineer",
+            "initial": "2020-07",
+            "finish": "Present",
+            "description": "Develops AI models for public services, implements natural language processing systems, and optimizes government processes."
+        }, {
+            "enterprise": "Tech Research Institute",
+            "position": "Machine Learning Engineer",
+            "initial": "2018-04",
+            "finish": "2020-06",
+            "description": "Developed recommendation systems, implemented computer vision algorithms, and optimized machine learning models."
+        }],
+        "formation": [{
+            "course": "Master's in Artificial Intelligence",
+            "institution": "State University of Campinas (UNICAMP)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Computer Engineering",
+            "institution": "Universidade Presbiteriana Mackenzie",
+            "year": 2016
+        }],
+        "projects": [{
+            "titulo": "Intelligent Public Service Chatbot",
+            "link": "https://brunolima.com/projects/ai-chatbot",
+            "description": "Development of an AI-powered virtual assistant to answer citizen questions and guide public services."
+        }],
+        "certifications": ["TensorFlow Developer", "AWS Machine Learning"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Fluent"}
+        ],
+        "interestsArea": ["Artificial Intelligence", "Machine Learning", "Natural Language Processing", "Computer Vision"]
+    },
+    {
+        "id": 34,
+        "name": "Carla Santos Oliveira",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Special Education Teacher",
+        "summary": "Pedagogue specialized in Special Education, working with inclusive education and developing adapted teaching strategies.",
+        "localization": "Porto Alegre/RS",
+        "area": "Education",
+        "hard_skills": ["Inclusive Education", "Teaching Adaptation", "Accessibility", "Individualized Planning", "Assessment Adaptation"],
+        "soft_skills": ["Empathy", "Patience", "Creativity", "Resilience", "Communication"],
+        "experiences": [{
+            "enterprise": "State Special Education Center",
+            "position": "Special Education Teacher",
+            "initial": "2019-03",
+            "finish": "Present",
+            "description": "Works with students with special needs, develops individualized plans, and adapts teaching materials."
+        }, {
+            "enterprise": "Inclusive School",
+            "position": "Support Teacher",
+            "initial": "2016-08",
+            "finish": "2019-02",
+            "description": "Provided support to students with disabilities in regular classrooms, adapted activities, and collaborated with teachers."
+        }],
+        "formation": [{
+            "course": "Specialization in Special Education",
+            "institution": "Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Pedagogy",
+            "institution": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+            "year": 2015
+        }],
+        "projects": [{
+            "titulo": "Inclusive Teaching Materials",
+            "link": "https://carlaoliveira.com/projects/inclusive-materials",
+            "description": "Development of adapted teaching materials for students with different types of disabilities."
+        }],
+        "certifications": ["Brazilian Sign Language (Libras)", "Autism Spectrum Disorder"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "Brazilian Sign Language (Libras)", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["Inclusive Education", "Special Education", "Accessibility", "Teaching Adaptation"]
+    },
+    {
+        "id": 35,
+        "name": "Daniel Almeida Silva",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Cloud Architect",
+        "summary": "IT professional specialized in cloud solutions architecture, designing and implementing scalable government infrastructures.",
+        "localization": "São Paulo/SP",
+        "area": "Technology",
+        "hard_skills": ["Cloud Architecture", "AWS Services", "Microservices", "DevOps", "Security"],
+        "soft_skills": ["Strategic Vision", "Leadership", "Communication", "Problem Solving", "Innovation"],
+        "experiences": [{
+            "enterprise": "São Paulo State Data Processing Company (PRODESP)",
+            "position": "Cloud Architect",
+            "initial": "2020-09",
+            "finish": "Present",
+            "description": "Designs cloud solutions for government systems, defines architecture patterns, and leads migration projects."
+        }, {
+            "enterprise": "Cloud Consulting Company",
+            "position": "Solutions Architect",
+            "initial": "2018-02",
+            "finish": "2020-08",
+            "description": "Designed cloud architectures for corporate clients, implemented best practices, and optimized costs."
+        }],
+        "formation": [{
+            "course": "MBA in Cloud Computing",
+            "institution": "FIAP",
+            "year": 2019
+        }, {
+            "course": "Bachelor of Information Systems",
+            "institution": "Universidade Anhembi Morumbi",
+            "year": 2017
+        }],
+        "projects": [{
+            "titulo": "Government Cloud Strategy",
+            "link": "https://danielsilva.com/projects/cloud-strategy",
+            "description": "Development of cloud adoption strategy and migration plan for state government systems."
+        }],
+        "certifications": ["AWS Solutions Architect Professional", "Google Cloud Architect", "Azure Solutions Architect"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Fluent"}
+        ],
+        "interestsArea": ["Cloud Computing", "Software Architecture", "Digital Transformation", "Infrastructure"]
+    },
+    {
+        "id": 36,
+        "name": "Eduarda Martins Costa",
+        "photo": "./perfil/foto1.jpg",
+        "position": "History Teacher",
+        "summary": "Historian and licensed teacher, passionate about teaching history with critical and reflective approaches.",
+        "localization": "Salvador/BA",
+        "area": "Education",
+        "hard_skills": ["Historical Research", "Curriculum Planning", "Didactic Resources", "Historical Analysis", "Academic Writing"],
+        "soft_skills": ["Critical Thinking", "Communication", "Empathy", "Creativity", "Cultural Sensitivity"],
+        "experiences": [{
+            "enterprise": "State Education Network of Bahia",
+            "position": "History Teacher",
+            "initial": "2018-02",
+            "finish": "Present",
+            "description": "Teaches History for high school, develops interdisciplinary projects, and organizes cultural activities."
+        }, {
+            "enterprise": "Historical Museum",
+            "position": "Educational Guide",
+            "initial": "2016-04",
+            "finish": "2018-01",
+            "description": "Conducted guided tours, developed educational materials, and organized cultural events."
+        }],
+        "formation": [{
+            "course": "Bachelor of History",
+            "institution": "Universidade Federal da Bahia (UFBA)",
+            "year": 2017
+        }, {
+            "course": "Teaching License in History",
+            "institution": "Universidade Federal da Bahia (UFBA)",
+            "year": 2018
+        }],
+        "projects": [{
+            "titulo": "Local History Project",
+            "link": "https://eduardacosta.com/projects/local-history",
+            "description": "Development of teaching materials about local history and Afro-Brazilian culture for basic education."
+        }],
+        "certifications": ["African and Afro-Brazilian History", "Digital Technologies in Education"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["History Teaching", "Afro-Brazilian History", "Cultural Heritage", "Critical Education"]
+    },
+    {
+        "id": 37,
+        "name": "Fábio Henrique Pereira",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Mobile Developer",
+        "summary": "Software developer specialized in mobile applications, creating government apps with focus on usability and accessibility.",
+        "localization": "Belo Horizonte/MG",
+        "area": "Technology",
+        "hard_skills": ["Android Development", "iOS Development", "React Native", "Mobile UI/UX", "API Integration"],
+        "soft_skills": ["Attention to Detail", "User Focus", "Problem Solving", "Collaboration", "Adaptability"],
+        "experiences": [{
+            "enterprise": "Minas Gerais Technology Company",
+            "position": "Mobile Developer",
+            "initial": "2019-08",
+            "finish": "Present",
+            "description": "Develops mobile applications for government services, implements new features, and ensures app performance."
+        }, {
+            "enterprise": "Mobile Development Startup",
+            "position": "Junior Mobile Developer",
+            "initial": "2017-11",
+            "finish": "2019-07",
+            "description": "Developed mobile apps for various clients, participated in agile teams, and learned best practices."
+        }],
+        "formation": [{
+            "course": "Bachelor of Information Systems",
+            "institution": "Pontifícia Universidade Católica de Minas Gerais (PUC-MG)",
+            "year": 2017
+        }, {
+            "course": "Technical in Mobile Development",
+            "institution": "SENAC",
+            "year": 2016
+        }],
+        "projects": [{
+            "titulo": "Government Services App",
+            "link": "https://fabiopereira.com/projects/government-app",
+            "description": "Development of a unified mobile application for accessing various state government services."
+        }],
+        "certifications": ["Google Associate Android Developer", "Apple iOS Development"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Advanced"}
+        ],
+        "interestsArea": ["Mobile Development", "User Experience", "Cross-platform Apps", "Digital Services"]
+    },
+    {
+        "id": 38,
+        "name": "Gabriela Rocha Santos",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Mathematics Teacher",
+        "summary": "Mathematics teacher with innovative approaches to make learning math more engaging and accessible to all students.",
+        "localization": "Curitiba/PR",
+        "area": "Education",
+        "hard_skills": ["Mathematical Modeling", "Educational Technology", "Curriculum Development", "Problem Solving", "Statistical Analysis"],
+        "soft_skills": ["Patience", "Clarity", "Motivation", "Creativity", "Resilience"],
+        "experiences": [{
+            "enterprise": "Private School Network",
+            "position": "Mathematics Teacher",
+            "initial": "2019-02",
+            "finish": "Present",
+            "description": "Teaches Mathematics for elementary and high school, develops interactive activities, and uses educational technology."
+        }, {
+            "enterprise": "Preparatory Course",
+            "position": "Math Tutor",
+            "initial": "2017-03",
+            "finish": "2019-01",
+            "description": "Provided individual and group tutoring, prepared students for exams, and developed study materials."
+        }],
+        "formation": [{
+            "course": "Teaching License in Mathematics",
+            "institution": "Universidade Federal do Paraná (UFPR)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Mathematics",
+            "institution": "Universidade Federal do Paraná (UFPR)",
+            "year": 2017
+        }],
+        "projects": [{
+            "titulo": "Mathematics with Games",
+            "link": "https://gabrielasantos.com/projects/math-games",
+            "description": "Creation of a collection of educational games to teach mathematical concepts in a playful way."
+        }],
+        "certifications": ["Educational Technology", "Active Learning Methodologies"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["Mathematics Education", "Educational Games", "Digital Learning", "Problem Solving"]
+    },
+    {
+        "id": 39,
+        "name": "Henrique Oliveira Lima",
+        "photo": "./perfil/foto1.jpg",
+        "position": "UX/UI Designer",
+        "summary": "Designer specialized in User Experience and User Interface, creating intuitive and accessible digital solutions for government.",
+        "localization": "São Paulo/SP",
+        "area": "Technology",
+        "hard_skills": ["User Research", "Wireframing", "Prototyping", "Usability Testing", "Design Systems"],
+        "soft_skills": ["Empathy", "Creativity", "Collaboration", "Attention to Detail", "User Advocacy"],
+        "experiences": [{
+            "enterprise": "São Paulo Digital Government",
+            "position": "UX/UI Designer",
+            "initial": "2020-04",
+            "finish": "Present",
+            "description": "Designs user interfaces for government digital services, conducts user research, and ensures accessibility compliance."
+        }, {
+            "enterprise": "Digital Design Agency",
+            "position": "Product Designer",
+            "initial": "2018-06",
+            "finish": "2020-03",
+            "description": "Designed digital products for various clients, created design systems, and conducted usability tests."
+        }],
+        "formation": [{
+            "course": "Specialization in UX Design",
+            "institution": "FIAP",
+            "year": 2019
+        }, {
+            "course": "Bachelor of Design",
+            "institution": "Universidade Anhembi Morumbi",
+            "year": 2017
+        }],
+        "projects": [{
+            "titulo": "Government Design System",
+            "link": "https://henriquelima.com/projects/design-system",
+            "description": "Creation of a comprehensive design system for state government digital services."
+        }],
+        "certifications": ["Google UX Design Certificate", "Accessibility Specialist"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Fluent"}
+        ],
+        "interestsArea": ["User Experience", "Digital Accessibility", "Design Systems", "User Research"]
+    },
+    {
+        "id": 40,
+        "name": "Isabela Costa Rodrigues",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Science Teacher",
+        "summary": "Biologist and science teacher, passionate about scientific education and hands-on experimental activities.",
+        "localization": "Rio de Janeiro/RJ",
+        "area": "Education",
+        "hard_skills": ["Scientific Methodology", "Laboratory Techniques", "Curriculum Planning", "Educational Technology", "Science Communication"],
+        "soft_skills": ["Curiosity", "Communication", "Patience", "Creativity", "Critical Thinking"],
+        "experiences": [{
+            "enterprise": "Municipal Education Network of Rio de Janeiro",
+            "position": "Science Teacher",
+            "initial": "2018-03",
+            "finish": "Present",
+            "description": "Teaches Science for elementary school, conducts laboratory experiments, and organizes science fairs."
+        }, {
+            "enterprise": "Science Museum",
+            "position": "Educational Mediator",
+            "initial": "2016-05",
+            "finish": "2018-02",
+            "description": "Conducted educational activities, explained scientific concepts, and assisted visitors in interactive exhibits."
+        }],
+        "formation": [{
+            "course": "Teaching License in Biological Sciences",
+            "institution": "Universidade Federal do Rio de Janeiro (UFRJ)",
+            "year": 2017
+        }, {
+            "course": "Bachelor of Biological Sciences",
+            "institution": "Universidade Federal do Rio de Janeiro (UFRJ)",
+            "year": 2016
+        }],
+        "projects": [{
+            "titulo": "School Science Club",
+            "link": "https://isabelarodrigues.com/projects/science-club",
+            "description": "Creation and coordination of an extracurricular science club for elementary school students."
+        }],
+        "certifications": ["Science Education", "Environmental Education"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["Science Education", "Environmental Education", "Scientific Literacy", "Hands-on Learning"]
+    },
+    {
+        "id": 41,
+        "name": "João Pedro Almeida",
+        "photo": "./perfil/foto1.jpg",
+        "position": "QA Engineer",
+        "summary": "Quality Assurance engineer specialized in test automation and software quality for critical government systems.",
+        "localization": "Brasília/DF",
+        "area": "Technology",
+        "hard_skills": ["Test Automation", "Selenium", "Cypress", "Performance Testing", "Test Planning"],
+        "soft_skills": ["Attention to Detail", "Critical Thinking", "Patience", "Communication", "Methodology"],
+        "experiences": [{
+            "enterprise": "Federal Data Processing Service (SERPRO)",
+            "position": "QA Engineer",
+            "initial": "2019-11",
+            "finish": "Present",
+            "description": "Develops automated tests, performs manual testing, ensures software quality, and creates test strategies."
+        }, {
+            "enterprise": "Software Development Company",
+            "position": "QA Analyst",
+            "initial": "2017-08",
+            "finish": "2019-10",
+            "description": "Performed functional testing, reported bugs, created test cases, and participated in agile ceremonies."
+        }],
+        "formation": [{
+            "course": "Specialization in Software Quality",
+            "institution": "Universidade de Brasília (UnB)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Information Systems",
+            "institution": "Universidade Católica de Brasília (UCB)",
+            "year": 2016
+        }],
+        "projects": [{
+            "titulo": "Test Automation Framework",
+            "link": "https://joaoalmeida.com/projects/test-automation",
+            "description": "Development of a comprehensive test automation framework for government financial systems."
+        }],
+        "certifications": ["ISTQB Certified Tester", "Selenium WebDriver"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Advanced"}
+        ],
+        "interestsArea": ["Test Automation", "Software Quality", "Continuous Testing", "Quality Assurance"]
+    },
+    {
+        "id": 42,
+        "name": "Karen Silva Santos",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Geography Teacher",
+        "summary": "Geographer and teacher, integrating geographic knowledge with environmental and social awareness in the classroom.",
+        "localization": "Fortaleza/CE",
+        "area": "Education",
+        "hard_skills": ["Geographic Information Systems", "Cartography", "Environmental Analysis", "Curriculum Planning", "Field Research"],
+        "soft_skills": ["Critical Thinking", "Communication", "Adaptability", "Cultural Sensitivity", "Environmental Awareness"],
+        "experiences": [{
+            "enterprise": "State Education Network of Ceará",
+            "position": "Geography Teacher",
+            "initial": "2019-02",
+            "finish": "Present",
+            "description": "Teaches Geography for high school, organizes field trips, and develops projects on local geography."
+        }, {
+            "enterprise": "Environmental Education Center",
+            "position": "Environmental Educator",
+            "initial": "2017-04",
+            "finish": "2019-01",
+            "description": "Developed environmental education activities, coordinated workshops, and created educational materials."
+        }],
+        "formation": [{
+            "course": "Teaching License in Geography",
+            "institution": "Universidade Federal do Ceará (UFC)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Geography",
+            "institution": "Universidade Federal do Ceará (UFC)",
+            "year": 2017
+        }],
+        "projects": [{
+            "titulo": "Local Geography Atlas",
+            "link": "https://karensantos.com/projects/local-atlas",
+            "description": "Creation of a digital atlas with geographic information about the local region for educational use."
+        }],
+        "certifications": ["Environmental Education", "Geographic Information Systems"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "Spanish", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["Geography Education", "Environmental Education", "Local Geography", "Cartography"]
+    },
+    {
+        "id": 43,
+        "name": "Lucas Martins Ferreira",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Blockchain Developer",
+        "summary": "Developer specialized in blockchain technology, creating transparent and secure solutions for government applications.",
+        "localization": "São Paulo/SP",
+        "area": "Technology",
+        "hard_skills": ["Smart Contracts", "Solidity", "Ethereum", "Cryptography", "Distributed Systems"],
+        "soft_skills": ["Innovation", "Problem Solving", "Attention to Detail", "Continuous Learning", "Security Mindset"],
+        "experiences": [{
+            "enterprise": "State Innovation Laboratory",
+            "position": "Blockchain Developer",
+            "initial": "2020-06",
+            "finish": "Present",
+            "description": "Develops blockchain solutions for government transparency, creates smart contracts, and researches DLT applications."
+        }, {
+            "enterprise": "Blockchain Startup",
+            "position": "Smart Contract Developer",
+            "initial": "2018-09",
+            "finish": "2020-05",
+            "description": "Developed smart contracts, implemented blockchain protocols, and conducted security audits."
+        }],
+        "formation": [{
+            "course": "Specialization in Blockchain",
+            "institution": "FIAP",
+            "year": 2019
+        }, {
+            "course": "Bachelor of Computer Science",
+            "institution": "Universidade Presbiteriana Mackenzie",
+            "year": 2017
+        }],
+        "projects": [{
+            "titulo": "Transparent Public Records",
+            "link": "https://lucasferreira.com/projects/blockchain-records",
+            "description": "Development of a blockchain-based system for transparent and immutable public records management."
+        }],
+        "certifications": ["Ethereum Developer", "Blockchain Security"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Fluent"}
+        ],
+        "interestsArea": ["Blockchain", "Smart Contracts", "Cryptography", "Decentralized Systems"]
+    },
+    {
+        "id": 44,
+        "name": "Mariana Oliveira Costa",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Physical Education Teacher",
+        "summary": "Physical Education professional promoting health, wellness and sports practice in the school environment.",
+        "localization": "Porto Alegre/RS",
+        "area": "Education",
+        "hard_skills": ["Sports Training", "Physical Assessment", "Exercise Planning", "Motor Development", "Sports Rules"],
+        "soft_skills": ["Motivation", "Leadership", "Communication", "Empathy", "Energy"],
+        "experiences": [{
+            "enterprise": "Municipal Education Network of Porto Alegre",
+            "position": "Physical Education Teacher",
+            "initial": "2018-03",
+            "finish": "Present",
+            "description": "Teaches Physical Education for all school levels, organizes sports events, and promotes healthy habits."
+        }, {
+            "enterprise": "Sports Club",
+            "position": "Sports Coach",
+            "initial": "2016-05",
+            "finish": "2018-02",
+            "description": "Coached youth sports teams, organized training sessions, and participated in sports competitions."
+        }],
+        "formation": [{
+            "course": "Bachelor of Physical Education",
+            "institution": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+            "year": 2017
+        }, {
+            "course": "Teaching License in Physical Education",
+            "institution": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+            "year": 2018
+        }],
+        "projects": [{
+            "titulo": "School Olympics",
+            "link": "https://marianacosta.com/projects/school-olympics",
+            "description": "Organization of an annual school sports competition involving all students in various sports modalities."
+        }],
+        "certifications": ["Sports Training", "First Aid"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"}
+        ],
+        "interestsArea": ["School Sports", "Health Education", "Motor Development", "Inclusive Sports"]
+    },
+    {
+        "id": 45,
+        "name": "Nathan Silva Alves",
+        "photo": "./perfil/foto1.jpg",
+        "position": "IoT Specialist",
+        "summary": "Engineer specialized in Internet of Things, developing smart solutions for urban infrastructure and public services.",
+        "localization": "Curitiba/PR",
+        "area": "Technology",
+        "hard_skills": ["Embedded Systems", "Sensor Networks", "IoT Protocols", "Data Acquisition", "Hardware Programming"],
+        "soft_skills": ["Innovation", "Problem Solving", "Technical Curiosity", "Attention to Detail", "Adaptability"],
+        "experiences": [{
+            "enterprise": "Curitiba Smart City Program",
+            "position": "IoT Specialist",
+            "initial": "2020-03",
+            "finish": "Present",
+            "description": "Develops IoT solutions for urban monitoring, implements sensor networks, and analyzes sensor data."
+        }, {
+            "enterprise": "Electronics Company",
+            "position": "Embedded Systems Engineer",
+            "initial": "2018-07",
+            "finish": "2020-02",
+            "description": "Developed embedded systems, programmed microcontrollers, and designed electronic circuits."
+        }],
+        "formation": [{
+            "course": "Specialization in Internet of Things",
+            "institution": "Pontifícia Universidade Católica do Paraná (PUC-PR)",
+            "year": 2019
+        }, {
+            "course": "Bachelor of Electronic Engineering",
+            "institution": "Universidade Federal do Paraná (UFPR)",
+            "year": 2017
+        }],
+        "projects": [{
+            "titulo": "Smart Urban Monitoring",
+            "link": "https://nathanalves.com/projects/smart-monitoring",
+            "description": "Implementation of an IoT network for real-time monitoring of urban parameters and public services."
+        }],
+        "certifications": ["IoT Architecture", "Embedded Systems"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Advanced"}
+        ],
+        "interestsArea": ["Internet of Things", "Smart Cities", "Embedded Systems", "Sensor Networks"]
+    },
+    {
+        "id": 46,
+        "name": "Olivia Rodrigues Santos",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Arts Teacher",
+        "summary": "Visual artist and teacher, integrating artistic expression with cultural education and creative development.",
+        "localization": "Salvador/BA",
+        "area": "Education",
+        "hard_skills": ["Artistic Techniques", "Art History", "Curriculum Planning", "Studio Management", "Exhibition Organization"],
+        "soft_skills": ["Creativity", "Sensitivity", "Communication", "Patience", "Cultural Appreciation"],
+        "experiences": [{
+            "enterprise": "State Education Network of Bahia",
+            "position": "Arts Teacher",
+            "initial": "2019-02",
+            "finish": "Present",
+            "description": "Teaches Visual Arts for basic education, develops artistic projects, and organizes student exhibitions."
+        }, {
+            "enterprise": "Cultural Center",
+            "position": "Art Educator",
+            "initial": "2017-04",
+            "finish": "2019-01",
+            "description": "Conducted art workshops, organized cultural events, and curated community art exhibitions."
+        }],
+        "formation": [{
+            "course": "Teaching License in Visual Arts",
+            "institution": "Universidade Federal da Bahia (UFBA)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Visual Arts",
+            "institution": "Universidade Federal da Bahia (UFBA)",
+            "year": 2017
+        }],
+        "projects": [{
+            "titulo": "School Mural Project",
+            "link": "https://oliviasantos.com/projects/school-mural",
+            "description": "Coordination of a collaborative mural painting project involving students and the school community."
+        }],
+        "certifications": ["Art Therapy", "Museum Education"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["Arts Education", "Cultural Heritage", "Community Art", "Artistic Expression"]
+    },
+    {
+        "id": 47,
+        "name": "Paulo Ricardo Lima",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Site Reliability Engineer",
+        "summary": "SRE ensuring reliability, scalability and performance of critical government digital services.",
+        "localization": "Brasília/DF",
+        "area": "Technology",
+        "hard_skills": ["System Monitoring", "Incident Management", "Performance Optimization", "Capacity Planning", "Automation"],
+        "soft_skills": ["Problem Solving", "Calm Under Pressure", "Communication", "Proactivity", "Methodology"],
+        "experiences": [{
+            "enterprise": "Federal Government IT Department",
+            "position": "Site Reliability Engineer",
+            "initial": "2020-08",
+            "finish": "Present",
+            "description": "Ensures system reliability, implements monitoring, manages incidents, and optimizes performance of government services."
+        }, {
+            "enterprise": "E-commerce Company",
+            "position": "DevOps Engineer",
+            "initial": "2018-11",
+            "finish": "2020-07",
+            "description": "Managed cloud infrastructure, implemented CI/CD pipelines, and ensured system availability."
+        }],
+        "formation": [{
+            "course": "Specialization in Cloud Infrastructure",
+            "institution": "FIAP",
+            "year": 2019
+        }, {
+            "course": "Bachelor of Computer Science",
+            "institution": "Universidade de Brasília (UnB)",
+            "year": 2017
+        }],
+        "projects": [{
+            "titulo": "Government Services Monitoring",
+            "link": "https://paulolima.com/projects/services-monitoring",
+            "description": "Implementation of a comprehensive monitoring and alerting system for critical government digital services."
+        }],
+        "certifications": ["Google SRE", "AWS DevOps Engineer"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Fluent"}
+        ],
+        "interestsArea": ["Site Reliability", "System Monitoring", "Performance Optimization", "Incident Management"]
+    },
+    {
+        "id": 48,
+        "name": "Quintino Barbosa Silva",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Philosophy Teacher",
+        "summary": "Philosopher and teacher, promoting critical thinking and philosophical reflection among high school students.",
+        "localization": "São Paulo/SP",
+        "area": "Education",
+        "hard_skills": ["Philosophical Analysis", "Text Interpretation", "Curriculum Planning", "Academic Research", "Ethics"],
+        "soft_skills": ["Critical Thinking", "Communication", "Patience", "Reflection", "Intellectual Humility"],
+        "experiences": [{
+            "enterprise": "Private School Network",
+            "position": "Philosophy Teacher",
+            "initial": "2019-02",
+            "finish": "Present",
+            "description": "Teaches Philosophy and Sociology for high school, promotes philosophical debates, and develops critical thinking activities."
+        }, {
+            "enterprise": "Cultural Center",
+            "position": "Philosophy Study Group Coordinator",
+            "initial": "2017-08",
+            "finish": "2019-01",
+            "description": "Coordinated philosophy study groups, organized lectures, and facilitated philosophical discussions."
+        }],
+        "formation": [{
+            "course": "Teaching License in Philosophy",
+            "institution": "Universidade de São Paulo (USP)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Philosophy",
+            "institution": "Universidade de São Paulo (USP)",
+            "year": 2017
+        }],
+        "projects": [{
+            "titulo": "Philosophy Café",
+            "link": "https://quintinosilva.com/projects/philosophy-cafe",
+            "description": "Organization of regular philosophical discussion meetings open to the school community."
+        }],
+        "certifications": ["Philosophy for Children", "Ethics and Citizenship"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "French", "proficiency": "Intermediate"},
+            {"language": "English", "proficiency": "Advanced"}
+        ],
+        "interestsArea": ["Philosophy Teaching", "Ethics", "Critical Thinking", "Political Philosophy"]
+    },
+    {
+        "id": 49,
+        "name": "Rafaela Costa Martins",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Sociology Teacher",
+        "summary": "Sociologist and teacher, analyzing social phenomena and promoting social awareness in the classroom.",
+        "localization": "Rio de Janeiro/RJ",
+        "area": "Education",
+        "hard_skills": ["Social Research", "Data Analysis", "Curriculum Development", "Academic Writing", "Social Theory"],
+        "soft_skills": ["Critical Analysis", "Communication", "Empathy", "Cultural Sensitivity", "Reflection"],
+        "experiences": [{
+            "enterprise": "State Education Network of Rio de Janeiro",
+            "position": "Sociology Teacher",
+            "initial": "2018-03",
+            "finish": "Present",
+            "description": "Teaches Sociology for high school, develops research projects, and promotes discussions on social issues."
+        }, {
+            "enterprise": "Social Research Institute",
+            "position": "Research Assistant",
+            "initial": "2016-06",
+            "finish": "2018-02",
+            "description": "Conducted social research, analyzed data, and contributed to research reports on urban issues."
+        }],
+        "formation": [{
+            "course": "Teaching License in Social Sciences",
+            "institution": "Universidade Federal do Rio de Janeiro (UFRJ)",
+            "year": 2017
+        }, {
+            "course": "Bachelor of Social Sciences",
+            "institution": "Universidade Federal do Rio de Janeiro (UFRJ)",
+            "year": 2016
+        }],
+        "projects": [{
+            "titulo": "Youth and Society Research",
+            "link": "https://rafaelamartins.com/projects/youth-research",
+            "description": "Coordination of a student research project on youth perceptions about contemporary social issues."
+        }],
+        "certifications": ["Social Research Methods", "Youth Studies"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "Spanish", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["Sociology Teaching", "Social Research", "Youth Studies", "Urban Sociology"]
+    },
+    {
+        "id": 50,
+        "name": "Sérgio Almeida Oliveira",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Database Administrator",
+        "summary": "DBA specialized in managing and optimizing large government databases, ensuring data integrity and performance.",
+        "localization": "Belo Horizonte/MG",
+        "area": "Technology",
+        "hard_skills": ["Database Management", "SQL Optimization", "Backup and Recovery", "Performance Tuning", "Data Security"],
+        "soft_skills": ["Attention to Detail", "Problem Solving", "Patience", "Methodology", "Reliability"],
+        "experiences": [{
+            "enterprise": "Minas Gerais State Data Center",
+            "position": "Database Administrator",
+            "initial": "2019-09",
+            "finish": "Present",
+            "description": "Manages government databases, optimizes queries, implements backups, and ensures data security."
+        }, {
+            "enterprise": "Financial Institution",
+            "position": "Junior DBA",
+            "initial": "2017-05",
+            "finish": "2019-08",
+            "description": "Assisted in database management, performed routine maintenance, and monitored database performance."
+        }],
+        "formation": [{
+            "course": "Specialization in Database Management",
+            "institution": "Pontifícia Universidade Católica de Minas Gerais (PUC-MG)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Information Systems",
+            "institution": "Universidade Federal de Minas Gerais (UFMG)",
+            "year": 2016
+        }],
+        "projects": [{
+            "titulo": "Database Migration and Optimization",
+            "link": "https://sergiooliveira.com/projects/db-migration",
+            "description": "Migration of legacy databases to modern platforms with performance optimization and security improvements."
+        }],
+        "certifications": ["Oracle Database Administrator", "Microsoft SQL Server"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Advanced"}
+        ],
+        "interestsArea": ["Database Management", "Data Security", "Performance Optimization", "Big Data"]
+    },
+    {
+        "id": 51,
+        "name": "Tatiane Martins Costa",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Portuguese Language Teacher",
+        "summary": "Language teacher specializing in Portuguese, literature and textual production, with innovative teaching approaches.",
+        "localization": "Porto Alegre/RS",
+        "area": "Education",
+        "hard_skills": ["Grammar", "Textual Analysis", "Literature", "Curriculum Planning", "Writing Techniques"],
+        "soft_skills": ["Communication", "Patience", "Creativity", "Sensitivity", "Cultural Appreciation"],
+        "experiences": [{
+            "enterprise": "Municipal Education Network of Porto Alegre",
+            "position": "Portuguese Language Teacher",
+            "initial": "2018-02",
+            "finish": "Present",
+            "description": "Teaches Portuguese Language and Literature for elementary and high school, develops writing projects, and promotes reading."
+        }, {
+            "enterprise": "Language Course",
+            "position": "Portuguese Teacher for Foreigners",
+            "initial": "2016-04",
+            "finish": "2018-01",
+            "description": "Taught Portuguese to foreign students, developed teaching materials, and assessed language proficiency."
+        }],
+        "formation": [{
+            "course": "Teaching License in Portuguese",
+            "institution": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+            "year": 2017
+        }, {
+            "course": "Bachelor of Letters - Portuguese",
+            "institution": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+            "year": 2016
+        }],
+        "projects": [{
+            "titulo": "School Literary Magazine",
+            "link": "https://tatianecosta.com/projects/literary-magazine",
+            "description": "Coordination of a student literary magazine publishing texts and literary works by students."
+        }],
+        "certifications": ["Textual Production", "Brazilian Literature"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "Spanish", "proficiency": "Intermediate"},
+            {"language": "English", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["Portuguese Teaching", "Literature", "Text Production", "Reading Incentive"]
+    },
+    {
+        "id": 52,
+        "name": "Ulisses Rodrigues Alves",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Network Administrator",
+        "summary": "Network specialist managing government communication infrastructure and ensuring connectivity and security.",
+        "localization": "Brasília/DF",
+        "area": "Technology",
+        "hard_skills": ["Network Design", "Cisco Technologies", "Network Security", "Troubleshooting", "Wireless Networks"],
+        "soft_skills": ["Problem Solving", "Attention to Detail", "Calm Under Pressure", "Methodology", "Continuous Learning"],
+        "experiences": [{
+            "enterprise": "Federal Government Network Department",
+            "position": "Network Administrator",
+            "initial": "2019-11",
+            "finish": "Present",
+            "description": "Manages government network infrastructure, implements security policies, and ensures network availability."
+        }, {
+            "enterprise": "Telecommunications Company",
+            "position": "Network Technician",
+            "initial": "2017-08",
+            "finish": "2019-10",
+            "description": "Maintained network equipment, resolved connectivity issues, and implemented network improvements."
+        }],
+        "formation": [{
+            "course": "Specialization in Computer Networks",
+            "institution": "Universidade de Brasília (UnB)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Information Systems",
+            "institution": "Universidade Católica de Brasília (UCB)",
+            "year": 2016
+        }],
+        "projects": [{
+            "titulo": "Government Network Modernization",
+            "link": "https://ulissesalves.com/projects/network-modernization",
+            "description": "Modernization of government network infrastructure with implementation of new security protocols and technologies."
+        }],
+        "certifications": ["Cisco CCNA", "CompTIA Network+", "Network Security"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Advanced"}
+        ],
+        "interestsArea": ["Computer Networks", "Network Security", "Infrastructure", "Telecommunications"]
+    },
+    {
+        "id": 53,
+        "name": "Vanessa Lima Santos",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Foreign Language Teacher",
+        "summary": "Language teacher specializing in English and Spanish, using communicative approaches and cultural immersion.",
+        "localization": "São Paulo/SP",
+        "area": "Education",
+        "hard_skills": ["Language Teaching", "Curriculum Development", "Language Assessment", "Cultural Studies", "Bilingual Education"],
+        "soft_skills": ["Communication", "Cultural Sensitivity", "Patience", "Adaptability", "Creativity"],
+        "experiences": [{
+            "enterprise": "Private Bilingual School",
+            "position": "Foreign Language Teacher",
+            "initial": "2019-02",
+            "finish": "Present",
+            "description": "Teaches English and Spanish, develops language activities, and promotes cultural exchange projects."
+        }, {
+            "enterprise": "Language Institute",
+            "position": "English Teacher",
+            "initial": "2017-03",
+            "finish": "2019-01",
+            "description": "Taught English for various levels, prepared students for proficiency exams, and developed teaching materials."
+        }],
+        "formation": [{
+            "course": "Teaching License in English",
+            "institution": "Universidade de São Paulo (USP)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Letters - English",
+            "institution": "Universidade de São Paulo (USP)",
+            "year": 2017
+        }],
+        "projects": [{
+            "titulo": "International Virtual Exchange",
+            "link": "https://vanessasantos.com/projects/virtual-exchange",
+            "description": "Organization of virtual exchange programs connecting students with peers from other countries."
+        }],
+        "certifications": ["CELTA", "DELE Spanish"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Fluent"},
+            {"language": "Spanish", "proficiency": "Advanced"},
+            {"language": "French", "proficiency": "Basic"}
+        ],
+        "interestsArea": ["Language Teaching", "Bilingual Education", "Cultural Exchange", "Language Technology"]
+    },
+    {
+        "id": 54,
+        "name": "William Costa Silva",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Systems Analyst",
+        "summary": "Systems analyst developing and maintaining government information systems with focus on efficiency and user needs.",
+        "localization": "Curitiba/PR",
+        "area": "Technology",
+        "hard_skills": ["Systems Analysis", "Requirements Gathering", "Process Modeling", "Documentation", "Software Testing"],
+        "soft_skills": ["Analytical Thinking", "Communication", "Attention to Detail", "User Focus", "Problem Solving"],
+        "experiences": [{
+            "enterprise": "Paraná State Technology Company",
+            "position": "Systems Analyst",
+            "initial": "2019-07",
+            "finish": "Present",
+            "description": "Analyzes system requirements, designs solutions, coordinates with development teams, and ensures system quality."
+        }, {
+            "enterprise": "Software Development Company",
+            "position": "Junior Systems Analyst",
+            "initial": "2017-09",
+            "finish": "2019-06",
+            "description": "Assisted in requirements analysis, created documentation, and participated in system testing."
+        }],
+        "formation": [{
+            "course": "Specialization in Systems Analysis",
+            "institution": "Pontifícia Universidade Católica do Paraná (PUC-PR)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Information Systems",
+            "institution": "Universidade Federal do Paraná (UFPR)",
+            "year": 2016
+        }],
+        "projects": [{
+            "titulo": "Government Process Automation",
+            "link": "https://williamsilva.com/projects/process-automation",
+            "description": "Analysis and automation of government administrative processes to improve efficiency and reduce bureaucracy."
+        }],
+        "certifications": ["Business Analysis", "Process Modeling"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["Systems Analysis", "Business Process", "Requirements Engineering", "Software Quality"]
+    },
+    {
+        "id": 55,
+        "name": "Xavier Almeida Rodrigues",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Chemistry Teacher",
+        "summary": "Chemist and teacher making chemistry accessible and engaging through experiments and real-world applications.",
+        "localization": "Campinas/SP",
+        "area": "Education",
+        "hard_skills": ["Laboratory Techniques", "Chemical Analysis", "Curriculum Planning", "Safety Procedures", "Scientific Methodology"],
+        "soft_skills": ["Precision", "Patience", "Communication", "Curiosity", "Safety Awareness"],
+        "experiences": [{
+            "enterprise": "State Technical School",
+            "position": "Chemistry Teacher",
+            "initial": "2018-03",
+            "finish": "Present",
+            "description": "Teaches Chemistry for high school and technical courses, conducts laboratory experiments, and develops practical activities."
+        }, {
+            "enterprise": "Chemical Industry",
+            "position": "Laboratory Technician",
+            "initial": "2016-05",
+            "finish": "2018-02",
+            "description": "Performed chemical analyses, maintained laboratory equipment, and ensured safety standards."
+        }],
+        "formation": [{
+            "course": "Teaching License in Chemistry",
+            "institution": "State University of Campinas (UNICAMP)",
+            "year": 2017
+        }, {
+            "course": "Bachelor of Chemistry",
+            "institution": "State University of Campinas (UNICAMP)",
+            "year": 2016
+        }],
+        "projects": [{
+            "titulo": "School Chemistry Laboratory",
+            "link": "https://xavierrodrigues.com/projects/chemistry-lab",
+            "description": "Organization and modernization of the school chemistry laboratory with new equipment and safety improvements."
+        }],
+        "certifications": ["Laboratory Safety", "Chemical Waste Management"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Advanced"}
+        ],
+        "interestsArea": ["Chemistry Education", "Laboratory Teaching", "Science Education", "Environmental Chemistry"]
+    },
+    {
+        "id": 56,
+        "name": "Yasmin Santos Oliveira",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Biology Teacher",
+        "summary": "Biologist and teacher passionate about life sciences, ecology and environmental education.",
+        "localization": "Manaus/AM",
+        "area": "Education",
+        "hard_skills": ["Biological Concepts", "Ecology", "Laboratory Techniques", "Curriculum Planning", "Environmental Education"],
+        "soft_skills": ["Curiosity", "Communication", "Patience", "Environmental Awareness", "Adaptability"],
+        "experiences": [{
+            "enterprise": "State Education Network of Amazonas",
+            "position": "Biology Teacher",
+            "initial": "2019-02",
+            "finish": "Present",
+            "description": "Teaches Biology for high school, develops ecological projects, and organizes field activities in the Amazon."
+        }, {
+            "enterprise": "Environmental Research Institute",
+            "position": "Research Assistant",
+            "initial": "2017-04",
+            "finish": "2019-01",
+            "description": "Assisted in ecological research, collected field data, and participated in environmental education activities."
+        }],
+        "formation": [{
+            "course": "Teaching License in Biological Sciences",
+            "institution": "Universidade Federal do Amazonas (UFAM)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Biological Sciences",
+            "institution": "Universidade Federal do Amazonas (UFAM)",
+            "year": 2017
+        }],
+        "projects": [{
+            "titulo": "Amazon Ecology Project",
+            "link": "https://yasminsoliveira.com/projects/amazon-ecology",
+            "description": "Development of educational activities about Amazonian biodiversity and conservation for students."
+        }],
+        "certifications": ["Environmental Education", "Amazon Ecology"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["Biology Education", "Ecology", "Environmental Education", "Amazon Conservation"]
+    },
+    {
+        "id": 57,
+        "name": "Zelia Costa Martins",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Physics Teacher",
+        "summary": "Physicist and teacher demystifying physics concepts through practical demonstrations and real-world applications.",
+        "localization": "São José dos Campos/SP",
+        "area": "Education",
+        "hard_skills": ["Physics Concepts", "Experimental Physics", "Mathematical Modeling", "Curriculum Planning", "Scientific Demonstration"],
+        "soft_skills": ["Logical Thinking", "Communication", "Patience", "Creativity", "Precision"],
+        "experiences": [{
+            "enterprise": "State Technical School",
+            "position": "Physics Teacher",
+            "initial": "2018-03",
+            "finish": "Present",
+            "description": "Teaches Physics for high school and technical courses, conducts experiments, and develops practical demonstrations."
+        }, {
+            "enterprise": "Science and Technology Museum",
+            "position": "Science Demonstrator",
+            "initial": "2016-06",
+            "finish": "2018-02",
+            "description": "Conducted physics demonstrations, explained scientific concepts, and developed interactive exhibits."
+        }],
+        "formation": [{
+            "course": "Teaching License in Physics",
+            "institution": "Universidade Federal de São Paulo (UNIFESP)",
+            "year": 2017
+        }, {
+            "course": "Bachelor of Physics",
+            "institution": "Universidade Federal de São Paulo (UNIFESP)",
+            "year": 2016
+        }],
+        "projects": [{
+            "titulo": "Physics in Everyday Life",
+            "link": "https://zeliamartins.com/projects/physics-everyday",
+            "description": "Development of teaching materials connecting physics concepts to everyday situations and technologies."
+        }],
+        "certifications": ["Experimental Physics", "Science Communication"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Advanced"}
+        ],
+        "interestsArea": ["Physics Education", "Experimental Science", "Science Communication", "STEM Education"]
+    },
+    {
+        "id": 58,
+        "name": "Alice Pereira Costa",
+        "photo": "./perfil/foto1.jpg",
+        "position": "Educational Technology Specialist",
+        "summary": "Pedagogue specialized in educational technology, integrating digital tools and innovative methodologies in education.",
+        "localization": "Recife/PE",
+        "area": "Education",
+        "hard_skills": ["Educational Software", "Digital Learning", "Technology Integration", "Online Courses", "Educational Platforms"],
+        "soft_skills": ["Innovation", "Adaptability", "Communication", "Problem Solving", "Continuous Learning"],
+        "experiences": [{
+            "enterprise": "Pernambuco Education Department",
+            "position": "Educational Technology Specialist",
+            "initial": "2019-08",
+            "finish": "Present",
+            "description": "Implements educational technology projects, trains teachers, and develops digital learning resources."
+        }, {
+            "enterprise": "Educational Technology Company",
+            "position": "Instructional Designer",
+            "initial": "2017-11",
+            "finish": "2019-07",
+            "description": "Designed online courses, developed educational content, and implemented learning management systems."
+        }],
+        "formation": [{
+            "course": "Specialization in Educational Technology",
+            "institution": "Universidade Federal de Pernambuco (UFPE)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Pedagogy",
+            "institution": "Universidade Federal de Pernambuco (UFPE)",
+            "year": 2016
+        }],
+        "projects": [{
+            "titulo": "Digital Learning Platform",
+            "link": "https://alicecosta.com/projects/digital-learning",
+            "description": "Implementation of a digital learning platform for state schools with educational resources and teacher training."
+        }],
+        "certifications": ["Instructional Design", "E-learning Development"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Advanced"}
+        ],
+        "interestsArea": ["Educational Technology", "Digital Learning", "Teacher Training", "Innovation in Education"]
+    },
+    {
+        "id": 59,
+        "name": "Bruno Henrique Alves",
+        "photo": "./perfil/foto1.jpg",
+        "position": "IT Infrastructure Manager",
+        "summary": "IT manager overseeing government technology infrastructure, ensuring reliability and strategic alignment with organizational goals.",
+        "localization": "Brasília/DF",
+        "area": "Technology",
+        "hard_skills": ["IT Management", "Infrastructure Planning", "Budget Management", "Vendor Management", "Strategic Planning"],
+        "soft_skills": ["Leadership", "Strategic Thinking", "Communication", "Decision Making", "Problem Solving"],
+        "experiences": [{
+            "enterprise": "Federal Government IT Department",
+            "position": "IT Infrastructure Manager",
+            "initial": "2020-01",
+            "finish": "Present",
+            "description": "Manages IT infrastructure team, plans technology investments, ensures system availability, and coordinates with vendors."
+        }, {
+            "enterprise": "Large Corporation",
+            "position": "IT Coordinator",
+            "initial": "2017-09",
+            "finish": "2019-12",
+            "description": "Coordinated IT operations, managed infrastructure projects, and ensured service level agreements."
+        }],
+        "formation": [{
+            "course": "MBA in IT Management",
+            "institution": "Fundação Getulio Vargas (FGV)",
+            "year": 2019
+        }, {
+            "course": "Bachelor of Information Systems",
+            "institution": "Universidade de Brasília (UnB)",
+            "year": 2016
+        }],
+        "projects": [{
+            "titulo": "Data Center Modernization",
+            "link": "https://brunoalves.com/projects/datacenter-modernization",
+            "description": "Planning and execution of government data center modernization with new technologies and energy efficiency."
+        }],
+        "certifications": ["ITIL Foundation", "COBIT", "Project Management"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Fluent"}
+        ],
+        "interestsArea": ["IT Management", "Infrastructure", "Digital Transformation", "Technology Strategy"]
+    },
+    {
+        "id": 60,
+        "name": "Camila Rodrigues Silva",
+        "photo": "./perfil/foto1.jpg",
+        "position": "School Principal",
+        "summary": "Educational manager with experience in school administration, pedagogical coordination and educational leadership.",
+        "localization": "São Paulo/SP",
+        "area": "Education",
+        "hard_skills": ["School Administration", "Pedagogical Coordination", "Budget Management", "Educational Planning", "Performance Evaluation"],
+        "soft_skills": ["Leadership", "Communication", "Conflict Resolution", "Strategic Planning", "Community Engagement"],
+        "experiences": [{
+            "enterprise": "Municipal Education Network of São Paulo",
+            "position": "School Principal",
+            "initial": "2019-01",
+            "finish": "Present",
+            "description": "Manages school operations, coordinates pedagogical team, develops educational projects, and engages with school community."
+        }, {
+            "enterprise": "State School",
+            "position": "Vice-Principal",
+            "initial": "2016-03",
+            "finish": "2018-12",
+            "description": "Assisted school principal, coordinated specific projects, and supervised teaching staff."
+        }],
+        "formation": [{
+            "course": "Specialization in Educational Management",
+            "institution": "Universidade de São Paulo (USP)",
+            "year": 2018
+        }, {
+            "course": "Bachelor of Pedagogy",
+            "institution": "Pontifícia Universidade Católica de São Paulo (PUC-SP)",
+            "year": 2015
+        }],
+        "projects": [{
+            "titulo": "School Improvement Plan",
+            "link": "https://camilasilva.com/projects/school-improvement",
+            "description": "Development and implementation of a comprehensive school improvement plan focusing on teaching quality and student outcomes."
+        }],
+        "certifications": ["Educational Management", "School Leadership"],
+        "languages": [
+            {"language": "Portuguese", "proficiency": "Native"},
+            {"language": "English", "proficiency": "Intermediate"}
+        ],
+        "interestsArea": ["Educational Management", "School Leadership", "Educational Policies", "Community Engagement"]
+    }
+]
